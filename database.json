@@ -1,7 +1,7 @@
 [
   {
     "id": "Q-001",
-    "status": "Waiting",
+    "status": "Archived",
     "timestamp": "2026-02-27T10:54:59.176Z",
     "isPaid": false,
     "orderType": "booking",
