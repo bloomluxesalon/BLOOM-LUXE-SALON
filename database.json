@@ -55,5 +55,24 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": ""
+  },
+  {
+    "id": "Q-004",
+    "status": "Waiting",
+    "timestamp": "2026-03-03T11:01:51.211Z",
+    "isPaid": false,
+    "orderType": "booking",
+    "lineUserId": "U8da0f6a907355a7ad9646a07df0bc861",
+    "nickname": "𝑛𝑜𝑜𝑘",
+    "course": "60 min",
+    "bookingDate": "2026-03-03",
+    "bookingTime": "12:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Chance rich",
+    "massagePressure": "Gentle",
+    "headPressure": "Gentle",
+    "caution": ""
   }
 ]
