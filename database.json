@@ -93,5 +93,24 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": ""
+  },
+  {
+    "id": "Q-006",
+    "status": "Waiting",
+    "timestamp": "2026-03-08T14:56:54.962Z",
+    "isPaid": false,
+    "orderType": "booking",
+    "lineUserId": "U28e5164b37d8d04842687f73f9dc330c",
+    "nickname": "♡ᴍʏʀᴇ",
+    "course": "60 min",
+    "bookingDate": "2026-03-09",
+    "bookingTime": "10:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": ""
   }
 ]
