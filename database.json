@@ -115,7 +115,7 @@
   },
   {
     "id": "Q-007",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-03-09T11:11:48.160Z",
     "isPaid": false,
     "orderType": "walkin",
@@ -130,6 +130,7 @@
     "shampoo": "Honey sunset",
     "massagePressure": "Medium",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": null
   }
 ]
