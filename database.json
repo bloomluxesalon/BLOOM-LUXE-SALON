@@ -172,7 +172,7 @@
   },
   {
     "id": "Q-010",
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-03-11T06:51:52.668Z",
     "isPaid": false,
     "orderType": "booking",
