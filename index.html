@@ -1111,7 +1111,7 @@
             
             if (item && item.lineUserId) {
                 if (newStatus === 'Waiting') {
-                    const msg = `✅ ยืนยันการจองสำเร็จ! (${item.id})\n📅 วันที่: ${item.bookingDate}\n⏰ เวลา: ${item.bookingTime}\n\nกรุณามาถึงก่อนเวลานัด 10 นาทีค่ะ`;
+                    const msg = `✅ ยืนยันการจองสำเร็จ! (${item.id})\n📅 วันที่: ${item.bookingDate}\n⏰ เวลา: ${item.bookingTime}\n\nกรุณามาถึงก่อนเวลานัด 10 นาทีค่ะ \nหากเลยเวลานัด ระบบจะยกเลิกคิวอัตโนมัติ`;
                     sendLineNotification(item.lineUserId, msg);
                 } else if (newStatus === 'Serving') {
                     const msg = `🎉 ถึงคิวของคุณแล้ว! (${item.id})\nกรุณามาที่จุดให้บริการค่ะ`;
