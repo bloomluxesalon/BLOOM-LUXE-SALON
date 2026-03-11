@@ -127,9 +127,15 @@
             <input type="hidden" id="form-order-type" name="orderType" value="walkin">
             <input type="hidden" id="line-user-id" name="lineUserId" value="">
 
-            <div class="w-full">
-                <label class="block text-[#5A4A3D] font-medium text-sm mb-2">Nickname</label>
-                <input type="text" id="input-nickname" name="nickname" required class="glass-input w-full" placeholder="Enter your nickname...">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
+                <div class="w-full">
+                    <label class="block text-[#5A4A3D] font-medium text-sm mb-2">Nickname</label>
+                    <input type="text" id="input-nickname" name="nickname" required class="glass-input w-full" placeholder="Enter your nickname...">
+                </div>
+                <div class="w-full">
+                    <label class="block text-[#5A4A3D] font-medium text-sm mb-2">Phone Number</label>
+                    <input type="tel" id="input-phone" name="phone" required class="glass-input w-full" placeholder="08xxxxxxxx">
+                </div>
             </div>
 
             <!-- COURSE SECTION -->
@@ -498,9 +504,15 @@
             </div>
             <form id="edit-form" class="space-y-4">
                 <input type="hidden" id="edit-id">
-                <div>
-                    <label class="block text-xs font-bold text-[#847568] mb-1">Nickname</label>
-                    <input type="text" id="edit-nickname" class="glass-input bg-white text-sm py-2">
+                <div class="grid grid-cols-2 gap-3">
+                    <div>
+                        <label class="block text-xs font-bold text-[#847568] mb-1">Nickname</label>
+                        <input type="text" id="edit-nickname" class="glass-input bg-white text-sm py-2">
+                    </div>
+                    <div>
+                        <label class="block text-xs font-bold text-[#847568] mb-1">Phone</label>
+                        <input type="tel" id="edit-phone" class="glass-input bg-white text-sm py-2">
+                    </div>
                 </div>
                 <div class="grid grid-cols-2 gap-3">
                     <div>
@@ -1111,7 +1123,7 @@
             
             if (item && item.lineUserId) {
                 if (newStatus === 'Waiting') {
-                    const msg = `✅ ยืนยันการจองสำเร็จ! (${item.id})\n📅 วันที่: ${item.bookingDate}\n⏰ เวลา: ${item.bookingTime}\n\nกรุณามาถึงก่อนเวลานัด 10 นาทีค่ะ \nหากเลยเวลานัด ระบบจะยกเลิกคิวอัตโนมัติ`;
+                    const msg = `✅ ยืนยันการจองสำเร็จ! (${item.id})\n📅 วันที่: ${item.bookingDate}\n⏰ เวลา: ${item.bookingTime}\n📞 เบอร์โทร: ${item.phone || '-'}\n\nกรุณามาถึงก่อนเวลานัด 10 นาทีค่ะ \nหากเลยเวลานัด ระบบจะยกเลิกคิวอัตโนมัติ`;
                     sendLineNotification(item.lineUserId, msg);
                 } else if (newStatus === 'Serving') {
                     const msg = `🎉 ถึงคิวของคุณแล้ว! (${item.id})\nกรุณามาที่จุดให้บริการค่ะ`;
@@ -1326,7 +1338,7 @@
             const lineUserId = lineUserIdEl ? lineUserIdEl.value : null;
             
             if(lineUserId) {
-                let msg = `⏳ ส่งคำขอจองคิวเรียบร้อย (${nextId})\n\nกรุณารอพนักงานยืนยันคิวสักครู่นะคะ`;
+                let msg = `⏳ ส่งคำขอจองคิวเรียบร้อย (${nextId})\n📞 เบอร์โทร: ${fd.get('phone')}\n\nกรุณารอพนักงานยืนยันคิวสักครู่นะคะ`;
                 sendLineNotification(lineUserId, msg);
             }
 
@@ -1447,10 +1459,39 @@
             showToast("No data to export", "error");
             return;
         }
+
+        // 1. Get Date Range from Filter
+        const startInput = document.getElementById('stats-start-date');
+        const endInput = document.getElementById('stats-end-date');
         
-        const headers = ["ID", "Status", "Date", "Time", "Type", "Name", "Gender", "Course", "Water", "Oil", "Shampoo", "Massage", "Head", "Caution", "Paid", "Price (THB)", "Note"];
+        const now = new Date();
+        const absoluteTodayStr = new Date(Date.now() - (now.getTimezoneOffset() * 60000)).toISOString().split('T')[0];
+
+        let startDateStr = startInput && startInput.value ? startInput.value : absoluteTodayStr;
+        let endDateStr = endInput && endInput.value ? endInput.value : absoluteTodayStr;
+
+        // Swap if start > end
+        if (new Date(startDateStr) > new Date(endDateStr)) {
+            const temp = startDateStr;
+            startDateStr = endDateStr;
+            endDateStr = temp;
+        }
+
+        // 2. Filter Data by Date
+        const filteredData = db_content.filter(q => {
+            const qDateStr = q.bookingDate || q.timestamp.split('T')[0];
+            return qDateStr >= startDateStr && qDateStr <= endDateStr;
+        });
+
+        if(filteredData.length === 0) {
+            showToast("ไม่มีข้อมูลในช่วงวันที่เลือก", "error");
+            return;
+        }
         
-        const csvRows = db_content.map(q => {
+        const headers = ["ID", "Status", "Date", "Time", "Type", "Name", "Phone", "Gender", "Course", "Water", "Oil", "Shampoo", "Massage", "Head", "Caution", "Paid", "Price (THB)", "Note"];
+        
+        // 3. Map filtered data to CSV rows
+        const csvRows = filteredData.map(q => {
             let price = 0;
             if(q.isPaid) {
                 if(q.course && q.course.includes('60')) price = SERVICE_PRICES["60 min"] || 0;
@@ -1464,6 +1505,7 @@
                 q.bookingTime || q.timestamp.split('T')[1].slice(0,5),
                 q.orderType || 'walkin',
                 `"${(q.nickname || '').replace(/"/g, '""')}"`, // escape quotes
+                `"${q.phone || '-'}"`, // added phone number
                 q.gender || '-',
                 q.course || '-',
                 q.waterTemp || '-',
@@ -1485,7 +1527,7 @@
         const url = URL.createObjectURL(blob);
         const link = document.createElement("a");
         link.setAttribute("href", url);
-        link.setAttribute("download", `BloomLuxe_Export_${new Date().toISOString().split('T')[0]}.csv`);
+        link.setAttribute("download", `BloomLuxe_Export_${startDateStr}_to_${endDateStr}.csv`);
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
@@ -1498,6 +1540,7 @@
         
         document.getElementById('edit-id').value = q.id;
         document.getElementById('edit-nickname').value = q.nickname || '';
+        document.getElementById('edit-phone').value = q.phone || '';
         document.getElementById('edit-date').value = q.bookingDate || q.timestamp.split('T')[0];
         document.getElementById('edit-time').value = q.bookingTime || '';
         document.getElementById('edit-course').value = q.course || '60 min';
@@ -1515,6 +1558,7 @@
         const itemIndex = db_content.findIndex(i => i.id === id);
         if(itemIndex > -1) {
             db_content[itemIndex].nickname = document.getElementById('edit-nickname').value;
+            db_content[itemIndex].phone = document.getElementById('edit-phone').value;
             db_content[itemIndex].bookingDate = document.getElementById('edit-date').value;
             db_content[itemIndex].bookingTime = document.getElementById('edit-time').value;
             db_content[itemIndex].course = document.getElementById('edit-course').value;
@@ -1682,7 +1726,7 @@
                     <div>
                         <div class="font-bold text-[#4A3B32] flex items-center gap-2">
                             ${q.nickname} 
-                            <span class="text-xs text-[#847568] font-normal">(${q.gender})</span>
+                            <span class="text-xs text-[#847568] font-normal">(${q.gender} | 📞 ${q.phone || '-'})</span>
                             ${!isCompleted && !isCancelled ? `<button onclick="openEditModal('${q.id}')" class="text-[10px] bg-white/60 hover:bg-white border border-[#D4C4B7] px-2 py-0.5 rounded shadow-sm text-[#8C7462]">✏️ Edit</button>` : ''}
                         </div>
                         <div class="text-[10px] font-medium ${timeColor}">${timeDisplay} <span class="text-[#847568]">(${q.orderType})</span></div>
