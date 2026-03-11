@@ -611,10 +611,10 @@
     let activePage = 'customer';
     let activeAdminTab = 'walkin';
     let isFetching = false;
-    let pauseSyncUntil = 0; // [NEW] ป้องกันข้อมูลเก่าเด้งทับหน้าจอ (Cache Lag) 
+    let pauseSyncUntil = 0;
     let myQueueId = localStorage.getItem('bloom_my_queue_id'); 
     let lastKnownStatus = localStorage.getItem('bloom_my_queue_status');
-    let lastPendingCount = 0; // For admin sound alert
+    let lastPendingCount = 0; 
 
     // --- UTILS DECLARATION ---
     function updateStatusIcon(state, code='') { 
@@ -653,7 +653,6 @@
         msgEl.innerText = message;
         modal.classList.remove('hidden-elm');
 
-        // โคลนปุ่มเพื่อล้าง Event Listener เก่าทิ้ง ป้องกันการทำงานซ้ำซ้อน
         const newOkBtn = okBtn.cloneNode(true);
         const newCancelBtn = cancelBtn.cloneNode(true);
         okBtn.parentNode.replaceChild(newOkBtn, okBtn);
@@ -678,8 +677,17 @@
         const statusEl = document.getElementById('bar-my-status');
         const idEl = document.getElementById('bar-my-id');
 
-        if(!q || q.status === 'Completed' || q.status === 'Archived' || q.status === 'Delete') {
+        if(!q || q.status === 'Completed' || q.status === 'Archived' || q.status === 'Cancelled') {
             if(bar) bar.classList.add('hidden-elm');
+            
+            // แจ้งเตือนลูกค้าว่าคิวถูกยกเลิกแล้ว
+            if (q && q.status === 'Cancelled' && lastKnownStatus !== 'Cancelled') {
+                showToast('❌ คิวของคุณถูกยกเลิก', 'error');
+            }
+            if (q) {
+                lastKnownStatus = q.status;
+                localStorage.setItem('bloom_my_queue_status', q.status);
+            }
             return;
         }
 
@@ -820,7 +828,48 @@
         refreshData();
         setInterval(refreshData, 5000); 
         setInterval(updateTimers, 1000);
+        setInterval(checkAutoCancel, 30000); // [NEW] ตรวจสอบคิวที่เลยเวลา 10 นาที ทุกๆ 30 วินาที
     };
+
+    // --- [NEW] AUTO-CANCEL LOGIC ---
+    async function checkAutoCancel() {
+        if (activePage !== 'admin') return; 
+        
+        const now = new Date();
+        let hasChanges = false;
+        let updatedDB = [...db_content];
+
+        for (let i = 0; i < updatedDB.length; i++) {
+            const q = updatedDB[i];
+            if (q.status === 'Waiting' || q.status === 'Pending') {
+                if (q.bookingDate && q.bookingTime) {
+                    const [year, month, day] = q.bookingDate.split('-');
+                    const [hours, minutes] = q.bookingTime.split(':');
+                    const qDateTime = new Date(year, month - 1, day, hours, minutes);
+                    
+                    const diffMins = (now - qDateTime) / (1000 * 60);
+                    
+                    if (diffMins >= 10) {
+                        updatedDB[i] = { ...q, status: 'Cancelled' };
+                        hasChanges = true;
+                        
+                        // Send Line Notify
+                        if (q.lineUserId) {
+                            const msg = `❌ ยกเลิกคิวอัตโนมัติ (${q.id})\n\nเนื่องจากเลยเวลานัดหมายเกิน 10 นาที ระบบได้ทำการยกเลิกคิวของคุณเพื่อเปิดสิทธิ์ให้ลูกค้าท่านอื่นค่ะ\nหากต้องการใช้บริการ กรุณาจองคิวใหม่อีกครั้งนะคะ 🙏`;
+                            sendLineNotification(q.lineUserId, msg);
+                        }
+                    }
+                }
+            }
+        }
+
+        if (hasChanges) {
+            db_content = updatedDB;
+            renderUI();
+            await saveToGithub(db_content);
+            showToast('มีคิวที่ถูกยกเลิกอัตโนมัติเนื่องจากเลยเวลานัด 10 นาที', 'error');
+        }
+    }
 
     // --- TIME SLOT LOGIC (SUPPORT 2 CONCURRENT BOOKINGS) ---
     function renderTimeSlots() {
@@ -1045,7 +1094,8 @@
         let updatedDB;
         const item = db_content.find(i => i.id === id);
         
-        if (newStatus === 'Delete') updatedDB = db_content.filter(i => i.id !== id);
+        // แก้ไข: เปลี่ยนการทำงานจากลบทิ้งเป็น 'Cancelled'
+        if (newStatus === 'Cancelled') updatedDB = db_content.map(i => i.id === id ? { ...i, status: 'Cancelled', serviceStartTime: null } : i);
         else if (newStatus === 'Done') updatedDB = db_content.map(i => i.id === id ? { ...i, status: 'Completed', serviceStartTime: null } : i);
         else updatedDB = db_content.map(i => { 
             if(i.id===id) return {...i, status: newStatus}; 
@@ -1069,8 +1119,13 @@
                 } else if (newStatus === 'Done') {
                     const msg = `🌸 ขอบคุณที่ใช้บริการ BLOOM LUXE SALON ค่ะ (${item.id})\n\nหวังว่าจะได้ดูแลคุณลูกค้าอีกครั้งนะคะ 💖`;
                     sendLineNotification(item.lineUserId, msg);
-                } else if (newStatus === 'Delete' && item.status === 'Pending') {
-                    const msg = `❌ ขออภัยค่ะ คิวของคุณถูกปฏิเสธ (${item.id})\nเนื่องจากเวลาที่เลือกไม่พร้อมให้บริการ กรุณาเลือกเวลาอื่นใหม่อีกครั้งค่ะ`;
+                } else if (newStatus === 'Cancelled') {
+                    let msg = '';
+                    if (item.status === 'Pending') {
+                        msg = `❌ ขออภัยค่ะ คิวของคุณถูกปฏิเสธ (${item.id})\nเนื่องจากเวลาที่เลือกไม่พร้อมให้บริการ กรุณาเลือกเวลาอื่นใหม่อีกครั้งค่ะ`;
+                    } else {
+                        msg = `❌ คิวของคุณถูกยกเลิก (${item.id})\n\nหากมีข้อสงสัยกรุณาติดต่อพนักงานค่ะ`;
+                    }
                     sendLineNotification(item.lineUserId, msg);
                 }
             }
@@ -1321,7 +1376,7 @@
         let absoluteTodayCompletedCount = 0;
         
         db_content.forEach(q => {
-            // แก้ให้ดึงมาคำนวณเฉพาะสถานะ Completed เท่านั้น (ถ้าโดน Archived จะถือว่าหายไปจากสถิติเลย)
+            // ดึงมาคำนวณเฉพาะสถานะ Completed เท่านั้น
             if(q.status === 'Completed' && q.isPaid) {
                 const qDateStr = q.bookingDate || q.timestamp.split('T')[0]; 
                 
@@ -1335,13 +1390,13 @@
                     rangeRev += price;
                 }
                 
-                // 2. This Month Calculation (Fixed to current real month)
+                // 2. This Month Calculation
                 if(qDateStr.substring(0, 7) === absoluteTodayStr.substring(0, 7)) {
                     monthCount++;
                     monthRev += price;
                 }
 
-                // 3. Today Calculation (Fixed to real today)
+                // 3. Today Calculation
                 if(qDateStr === absoluteTodayStr) {
                     dayCount++;
                     dayRev += price;
@@ -1393,10 +1448,8 @@
             return;
         }
         
-        // Define Headers
         const headers = ["ID", "Status", "Date", "Time", "Type", "Name", "Gender", "Course", "Water", "Oil", "Shampoo", "Massage", "Head", "Caution", "Paid", "Price (THB)", "Note"];
         
-        // Map Data
         const csvRows = db_content.map(q => {
             let price = 0;
             if(q.isPaid) {
@@ -1428,7 +1481,6 @@
         
         const csvString = [headers.join(","), ...csvRows].join("\n");
         
-        // Add BOM for Excel UTF-8 reading
         const blob = new Blob(["\uFEFF" + csvString], { type: 'text/csv;charset=utf-8;' });
         const url = URL.createObjectURL(blob);
         const link = document.createElement("a");
@@ -1556,6 +1608,7 @@
     function createAdminCard(q, isServing = false) {
         const isCompleted = q.status === 'Completed';
         const isPending = q.status === 'Pending';
+        const isCancelled = q.status === 'Cancelled';
         
         let badgeClass, badgeText;
         if (isServing) {
@@ -1564,6 +1617,9 @@
         } else if (isCompleted) {
             badgeClass = 'bg-gray-200 text-gray-600 border border-gray-300';
             badgeText = 'Completed';
+        } else if (isCancelled) {
+            badgeClass = 'bg-red-50 text-red-600 border border-red-200';
+            badgeText = 'Cancelled';
         } else if (isPending) {
             badgeClass = 'status-pending';
             badgeText = 'Pending';
@@ -1573,7 +1629,7 @@
         }
         
         const timeDisplay = `📅 ${q.bookingDate || ''} | ⏰ ${q.bookingTime || '??:??'}`;
-        const timeColor = isPending ? 'text-[#2563EB]' : 'text-orange-600';
+        const timeColor = isPending ? 'text-[#2563EB]' : (isCancelled ? 'text-red-500' : 'text-orange-600');
 
         const paidText = q.isPaid ? '✅ Paid' : '⏳ Unpaid';
         const paidBorderClass = q.isPaid ? 'border-[#15803D]/50 bg-[#15803D]/10' : 'border-[#D4C4B7] bg-white/50';
@@ -1603,22 +1659,22 @@
         if (isPending) {
             actionBtns = `
                 <button onclick="updateStatus('${q.id}', 'Waiting')" class="bg-blue-600 hover:bg-blue-700 px-5 py-2 rounded-lg text-xs font-bold text-white transition-all shadow-md">✅ Confirm</button>
-                <button onclick="updateStatus('${q.id}', 'Delete')" class="bg-white text-red-500 hover:bg-red-50 hover:text-red-700 border border-red-200 px-4 py-2 rounded-lg text-xs font-bold transition-all shadow-sm">❌ Reject</button>
+                <button onclick="updateStatus('${q.id}', 'Cancelled')" class="bg-white text-red-500 hover:bg-red-50 hover:text-red-700 border border-red-200 px-4 py-2 rounded-lg text-xs font-bold transition-all shadow-sm">❌ Reject</button>
             `;
         } else if (q.status === 'Waiting') {
              actionBtns = `
                 <button onclick="updateStatus('${q.id}', 'Serving')" class="bg-[#15803D] hover:bg-green-800 px-5 py-2 rounded-lg text-xs font-bold text-white transition-all shadow-md">Start</button>
-                <button onclick="updateStatus('${q.id}', 'Delete')" class="bg-red-50 text-red-600 hover:bg-red-100 hover:text-red-700 border border-red-200 px-3 py-2 rounded-lg text-xs font-bold transition-all">Del</button>
+                <button onclick="updateStatus('${q.id}', 'Cancelled')" class="bg-red-50 text-red-600 hover:bg-red-100 hover:text-red-700 border border-red-200 px-3 py-2 rounded-lg text-xs font-bold transition-all">Cancel</button>
             `;
         } else if (q.status === 'Serving') {
             actionBtns = `
                 <button onclick="updateStatus('${q.id}', 'Done')" class="bg-[#4A3B32] hover:bg-[#2c231e] px-5 py-2 rounded-lg text-xs font-bold text-white transition-all shadow-md">Done</button>
-                <button onclick="updateStatus('${q.id}', 'Delete')" class="bg-red-50 text-red-600 hover:bg-red-100 hover:text-red-700 border border-red-200 px-3 py-2 rounded-lg text-xs font-bold transition-all">Del</button>
+                <button onclick="updateStatus('${q.id}', 'Cancelled')" class="bg-red-50 text-red-600 hover:bg-red-100 hover:text-red-700 border border-red-200 px-3 py-2 rounded-lg text-xs font-bold transition-all">Cancel</button>
             `;
         }
 
         return `
-        <div class="bg-white rounded-2xl shadow-sm border ${isPending ? 'border-[#2563EB]/50' : 'border-[#D4C4B7]'} overflow-hidden mb-4 animate-slide-in ${isCompleted ? 'opacity-70' : ''}">
+        <div class="bg-white rounded-2xl shadow-sm border ${isPending ? 'border-[#2563EB]/50' : 'border-[#D4C4B7]'} overflow-hidden mb-4 animate-slide-in ${isCompleted || isCancelled ? 'opacity-70 grayscale-[30%]' : ''}">
             <!-- Header Ticket -->
             <div class="${isServing ? 'bg-[#8C7462]/10' : (isPending ? 'bg-[#2563EB]/5' : '#F4EFE6')} px-5 py-3 flex justify-between items-center border-b ${isPending ? 'border-[#2563EB]/30' : 'border-[#D4C4B7]'}">
                 <div class="flex items-center gap-3">
@@ -1627,7 +1683,7 @@
                         <div class="font-bold text-[#4A3B32] flex items-center gap-2">
                             ${q.nickname} 
                             <span class="text-xs text-[#847568] font-normal">(${q.gender})</span>
-                            ${!isCompleted ? `<button onclick="openEditModal('${q.id}')" class="text-[10px] bg-white/60 hover:bg-white border border-[#D4C4B7] px-2 py-0.5 rounded shadow-sm text-[#8C7462]">✏️ Edit</button>` : ''}
+                            ${!isCompleted && !isCancelled ? `<button onclick="openEditModal('${q.id}')" class="text-[10px] bg-white/60 hover:bg-white border border-[#D4C4B7] px-2 py-0.5 rounded shadow-sm text-[#8C7462]">✏️ Edit</button>` : ''}
                         </div>
                         <div class="text-[10px] font-medium ${timeColor}">${timeDisplay} <span class="text-[#847568]">(${q.orderType})</span></div>
                     </div>
@@ -1658,7 +1714,7 @@
                 <!-- Footer Ticket (Actions) -->
                 <div class="flex flex-wrap justify-between items-center mt-5 pt-4 border-t ${isPending ? 'border-[#2563EB]/30' : 'border-[#D4C4B7]'} gap-2">
                     <label class="flex items-center gap-2 cursor-pointer px-3 py-2 rounded-lg border ${paidBorderClass} transition-all hover:bg-[#F4EFE6]">
-                        <input type="checkbox" onchange="togglePayment('${q.id}', this.checked)" ${q.isPaid ? 'checked' : ''} class="w-4 h-4 accent-[#15803D] rounded cursor-pointer">
+                        <input type="checkbox" onchange="togglePayment('${q.id}', this.checked)" ${q.isPaid ? 'checked' : ''} class="w-4 h-4 accent-[#15803D] rounded cursor-pointer" ${isCancelled ? 'disabled' : ''}>
                         <span class="text-xs ${paidTextClass}">${paidText}</span>
                     </label>
                     <div class="flex gap-2 items-center">
@@ -1690,7 +1746,9 @@
         }
 
         const todayStr = new Date().toISOString().split('T')[0];
-        const completed = db_content.filter(i => i.status === 'Completed' && ((i.bookingDate || i.timestamp.split('T')[0]) === todayStr));
+        
+        // รวมทั้ง Completed และ Cancelled ของวันนี้ไว้ดูในแท็บ Today's History
+        const todayHistory = db_content.filter(i => (i.status === 'Completed' || i.status === 'Cancelled') && ((i.bookingDate || i.timestamp.split('T')[0]) === todayStr));
 
         const waitingWalkin = db_content.filter(i => i.orderType !== 'booking' && (i.status === 'Pending' || i.status === 'Waiting' || i.status === 'Serving')); 
         const waitingBooking = db_content.filter(i => i.orderType === 'booking' && (i.status === 'Pending' || i.status === 'Waiting' || i.status === 'Serving'));
@@ -1745,7 +1803,7 @@
             if(countTotalEl) countTotalEl.innerText = db_content.length;
             if(badgeWalkinEl) badgeWalkinEl.innerText = waitingWalkin.length;
             if(badgeBookingEl) badgeBookingEl.innerText = waitingBooking.length;
-            if(badgeTodayEl) badgeTodayEl.innerText = completed.length;
+            if(badgeTodayEl) badgeTodayEl.innerText = todayHistory.length;
 
             // Badges for pending
             const pendingWalkin = waitingWalkin.filter(q => q.status === 'Pending').length;
@@ -1790,8 +1848,8 @@
             const tl = document.getElementById('admin-today-list');
             if(tl) {
                 tl.innerHTML = '';
-                if(completed.length === 0) tl.innerHTML = '<div class="text-[#847568] text-center py-8">No queue history today</div>';
-                else completed.slice().reverse().forEach(q => tl.innerHTML += createAdminCard(q, false));
+                if(todayHistory.length === 0) tl.innerHTML = '<div class="text-[#847568] text-center py-8">No queue history today</div>';
+                else todayHistory.slice().reverse().forEach(q => tl.innerHTML += createAdminCard(q, false));
             }
 
             // Render Timeline if active
