@@ -58,7 +58,7 @@
   },
   {
     "id": "Q-004",
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-03-03T11:01:51.211Z",
     "isPaid": false,
     "orderType": "booking",
@@ -96,7 +96,7 @@
   },
   {
     "id": "Q-006",
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-03-08T14:56:54.962Z",
     "isPaid": false,
     "orderType": "booking",
