@@ -135,7 +135,7 @@
   },
   {
     "id": "Q-008",
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-03-11T04:50:01.877Z",
     "isPaid": false,
     "orderType": "walkin",
