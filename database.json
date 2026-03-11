@@ -169,5 +169,24 @@
     "shampoo": "Chance rich",
     "massagePressure": "Gentle",
     "caution": ""
+  },
+  {
+    "id": "Q-010",
+    "status": "Pending",
+    "timestamp": "2026-03-11T06:51:52.668Z",
+    "isPaid": false,
+    "orderType": "booking",
+    "lineUserId": "Uc0a46da4ae5eddc0fa16b3263c54e18e",
+    "nickname": "เชน",
+    "course": "60 min",
+    "bookingDate": "2026-03-11",
+    "bookingTime": "14:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": ""
   }
 ]
