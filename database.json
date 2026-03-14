@@ -257,7 +257,7 @@
   },
   {
     "id": "Q-014",
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-03-14T07:36:43.435Z",
     "isPaid": false,
     "orderType": "walkin",
