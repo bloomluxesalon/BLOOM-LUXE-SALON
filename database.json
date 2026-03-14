@@ -257,7 +257,7 @@
   },
   {
     "id": "Q-014",
-    "status": "Serving",
+    "status": "Cancelled",
     "timestamp": "2026-03-14T07:36:43.435Z",
     "isPaid": true,
     "orderType": "walkin",
@@ -273,6 +273,7 @@
     "shampoo": "Chance rich",
     "massagePressure": "Medium",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": null
   }
 ]
