@@ -212,7 +212,7 @@
   },
   {
     "id": "Q-012",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-03-14T05:19:48.381Z",
     "isPaid": false,
     "orderType": "walkin",
@@ -229,7 +229,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "serviceStartTime": "2026-03-14T07:32:34.668Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
