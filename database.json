@@ -316,5 +316,14 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": ""
+  },
+  {
+    "id": "SYS_SETTINGS",
+    "staffLineIds": [
+      "U28e5164b37d8d04842687f73f9dc330c",
+      "",
+      "",
+      ""
+    ]
   }
 ]
