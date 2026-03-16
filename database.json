@@ -320,7 +320,7 @@
   },
   {
     "id": "Q-017",
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-03-16T11:03:28.609Z",
     "isPaid": false,
     "isDepositPaid": false,
