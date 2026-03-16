@@ -315,7 +315,8 @@
     "shampoo": "Honey sunset",
     "massagePressure": "Medium",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "isDepositPaid": true
   },
   {
     "id": "SYS_SETTINGS",
