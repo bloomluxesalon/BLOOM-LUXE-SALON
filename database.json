@@ -299,7 +299,7 @@
   },
   {
     "id": "Q-016",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-03-16T09:21:45.012Z",
     "isPaid": false,
     "orderType": "walkin",
@@ -317,7 +317,7 @@
     "headPressure": "Medium",
     "caution": "",
     "isDepositPaid": true,
-    "serviceStartTime": "2026-03-16T13:07:06.287Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
