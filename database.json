@@ -394,7 +394,7 @@
     "id": "Q-020",
     "status": "Waiting",
     "timestamp": "2026-03-17T11:44:01.348Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": true,
     "actualPrice": 890,
     "orderType": "walkin",
