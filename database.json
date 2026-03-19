@@ -464,7 +464,7 @@
     "id": "Q-023",
     "status": "Pending",
     "timestamp": "2026-03-19T05:25:51.881Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": false,
     "actualPrice": 590,
     "orderType": "walkin",
