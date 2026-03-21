@@ -710,6 +710,27 @@
     "caution": ""
   },
   {
+    "id": "Q-034",
+    "status": "Pending",
+    "timestamp": "2026-03-21T09:13:11.955Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U009964fca8be95b34c29371b3b915a5d",
+    "nickname": "Butter",
+    "phone": "0985083942",
+    "course": "60 min",
+    "bookingDate": "2026-03-21",
+    "bookingTime": "17:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "headPressure": "Medium",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
