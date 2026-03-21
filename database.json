@@ -554,7 +554,7 @@
   },
   {
     "id": "Q-027",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-03-21T03:20:03.038Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -572,7 +572,8 @@
     "shampoo": "Honey sunset",
     "massagePressure": "Medium",
     "headPressure": "Strong",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": null
   },
   {
     "id": "Q-028",
