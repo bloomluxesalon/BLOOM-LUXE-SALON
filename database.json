@@ -620,6 +620,28 @@
     "caution": "2คน "
   },
   {
+    "id": "Q-030",
+    "status": "Pending",
+    "timestamp": "2026-03-21T05:32:24.254Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U35c4d1a30efb16c14a86d08cbd67170c",
+    "nickname": "𝘮𝘢𝘹",
+    "phone": "0615925773",
+    "course": "60 min",
+    "bookingDate": "2026-03-21",
+    "bookingTime": "12:31",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
