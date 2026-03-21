@@ -732,7 +732,9 @@
     "headPressure": "Medium",
     "caution": "",
     "discount": "",
-    "internalNote": "สระไดร์"
+    "internalNote": "สระไดร์",
+    "serviceStartTime": "2026-03-21T11:24:18.578Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
