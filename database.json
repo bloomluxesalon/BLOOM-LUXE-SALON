@@ -730,7 +730,9 @@
     "oil": "Choose at shop",
     "shampoo": "Choose at shop",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "discount": "",
+    "internalNote": "สระไดร์"
   },
   {
     "id": "SYS_SETTINGS",
