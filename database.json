@@ -666,6 +666,28 @@
     "caution": "ระวังช่วงต้นคอให้หน่อยค่ะ เพิ่งหายคอเคล็ด"
   },
   {
+    "id": "Q-032",
+    "status": "Pending",
+    "timestamp": "2026-03-21T08:30:21.822Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U66d340894e6edb82ce8256a4e5b94ba3",
+    "nickname": "Eye",
+    "phone": "0944026776",
+    "course": "90 min",
+    "bookingDate": "2026-03-21",
+    "bookingTime": "15:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
