@@ -600,7 +600,7 @@
   },
   {
     "id": "Q-029",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-03-21T03:46:27.784Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -618,7 +618,8 @@
     "shampoo": "Pink Gold",
     "massagePressure": "Medium",
     "headPressure": "Strong",
-    "caution": "2คน "
+    "caution": "2คน ",
+    "serviceStartTime": null
   },
   {
     "id": "Q-030",
