@@ -599,7 +599,7 @@
   },
   {
     "id": "Q-029",
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-03-21T03:46:27.784Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -621,7 +621,7 @@
   },
   {
     "id": "Q-030",
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-03-21T05:32:24.254Z",
     "isPaid": false,
     "isDepositPaid": false,
