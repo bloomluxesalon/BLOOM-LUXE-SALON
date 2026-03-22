@@ -872,7 +872,9 @@
     "shampoo": "Choose at shop",
     "massagePressure": "Strong",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-03-22T11:23:44.029Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-041",
