@@ -988,7 +988,9 @@
     "shampoo": "Pink Gold",
     "massagePressure": "Strong",
     "headPressure": "Strong",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-03-22T14:09:30.917Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-046",
