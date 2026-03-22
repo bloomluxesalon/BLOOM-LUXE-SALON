@@ -827,6 +827,28 @@
     "caution": ""
   },
   {
+    "id": "Q-039",
+    "status": "Pending",
+    "timestamp": "2026-03-22T05:45:48.059Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U740b4dcfc08cda14803e5fde3aef8509",
+    "nickname": "G • ジー",
+    "phone": "0953746647",
+    "course": "60 min",
+    "bookingDate": "2026-03-22",
+    "bookingTime": "13:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "White Tea",
+    "shampoo": "Chance rich",
+    "massagePressure": "Strong",
+    "headPressure": "Strong",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
