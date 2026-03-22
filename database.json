@@ -1012,7 +1012,9 @@
     "shampoo": "Chance rich",
     "massagePressure": "Medium",
     "headPressure": "Strong",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-03-22T14:09:58.764Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-047",
