@@ -739,7 +739,7 @@
   },
   {
     "id": "Q-035",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-03-21T13:48:43.481Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -757,7 +757,8 @@
     "shampoo": "Choose at shop",
     "massagePressure": "Strong",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": null
   },
   {
     "id": "Q-036",
