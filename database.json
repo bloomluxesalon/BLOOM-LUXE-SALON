@@ -1131,6 +1131,28 @@
     "caution": ""
   },
   {
+    "id": "Q-052",
+    "status": "Pending",
+    "timestamp": "2026-03-23T07:10:18.707Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U8b751ed3e720a492875a6394717ccd92",
+    "nickname": "😀😀TARN SUPARAT😁😁",
+    "phone": "0625058531",
+    "course": "60 min",
+    "bookingDate": "2026-03-23",
+    "bookingTime": "14:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
