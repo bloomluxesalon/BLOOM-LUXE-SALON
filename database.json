@@ -896,7 +896,9 @@
     "shampoo": "Choose at shop",
     "massagePressure": "Medium",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "discount": "",
+    "internalNote": "มา2ท่าน"
   },
   {
     "id": "Q-042",
