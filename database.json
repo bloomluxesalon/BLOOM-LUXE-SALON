@@ -1132,7 +1132,7 @@
   },
   {
     "id": "Q-052",
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-03-23T07:10:18.707Z",
     "isPaid": false,
     "isDepositPaid": false,
