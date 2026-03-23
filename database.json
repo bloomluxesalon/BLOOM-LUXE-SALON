@@ -1039,6 +1039,28 @@
     "caution": ""
   },
   {
+    "id": "Q-048",
+    "status": "Pending",
+    "timestamp": "2026-03-23T04:36:11.066Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U9eb5a5dbc4638b24c3dabd76041dc3d4",
+    "nickname": "focus",
+    "phone": "0984856897",
+    "course": "60 min",
+    "bookingDate": "2026-03-23",
+    "bookingTime": "12:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "White Tea",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
