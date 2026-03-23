@@ -1202,7 +1202,9 @@
     "shampoo": "Pink Gold",
     "massagePressure": "Strong",
     "headPressure": "Strong",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-03-23T11:04:16.938Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
