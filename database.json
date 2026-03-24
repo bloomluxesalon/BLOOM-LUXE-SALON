@@ -1231,6 +1231,26 @@
     "notifiedNext": false
   },
   {
+    "id": "Q-056",
+    "status": "Pending",
+    "timestamp": "2026-03-24T11:34:35.665Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U6ac91f5dc6b6dc5db1fc2311792968df",
+    "nickname": "Visaka S 🌤🐷63",
+    "phone": "0859899558",
+    "course": "60 min",
+    "bookingDate": "2026-03-26",
+    "bookingTime": "17:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
