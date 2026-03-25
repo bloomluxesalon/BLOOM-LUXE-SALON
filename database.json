@@ -1412,6 +1412,28 @@
     "notifiedNext": false
   },
   {
+    "id": "Q-064",
+    "status": "Pending",
+    "timestamp": "2026-03-25T06:27:39.555Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U0a94688c6e4b87ea317a7f47eb14d159",
+    "nickname": "🩷𝓟𝓵𝓮𝓷𝓰 ☪",
+    "phone": "0929727789",
+    "course": "90 min",
+    "bookingDate": "2026-03-25",
+    "bookingTime": "16:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": "19.20"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
