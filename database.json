@@ -1505,7 +1505,9 @@
     "shampoo": "Honey sunset",
     "massagePressure": "Strong",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-03-25T12:12:05.365Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-068",
