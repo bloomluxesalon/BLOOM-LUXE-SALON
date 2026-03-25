@@ -1508,6 +1508,28 @@
     "caution": ""
   },
   {
+    "id": "Q-068",
+    "status": "Pending",
+    "timestamp": "2026-03-25T12:01:52.033Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U0a94688c6e4b87ea317a7f47eb14d159",
+    "nickname": "🩷𝓟𝓵𝓮𝓷𝓰 ☪",
+    "phone": "0929727789",
+    "course": "90 min",
+    "bookingDate": "2026-03-25",
+    "bookingTime": "19:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
