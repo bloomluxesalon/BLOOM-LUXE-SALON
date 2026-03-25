@@ -1361,7 +1361,9 @@
     "shampoo": "Chance rich",
     "massagePressure": "Gentle",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-03-25T03:40:45.965Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
