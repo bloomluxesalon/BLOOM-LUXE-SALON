@@ -1434,6 +1434,28 @@
     "caution": "19.20"
   },
   {
+    "id": "Q-065",
+    "status": "Pending",
+    "timestamp": "2026-03-25T06:28:46.707Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U0a94688c6e4b87ea317a7f47eb14d159",
+    "nickname": "Plame",
+    "phone": "0929727789",
+    "course": "90 min",
+    "bookingDate": "2026-03-25",
+    "bookingTime": "14:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "19.20"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
