@@ -1535,7 +1535,7 @@
   },
   {
     "id": "Q-069",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-03-26T05:42:35.506Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -1554,7 +1554,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "serviceStartTime": "2026-03-26T05:45:29.692Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
@@ -1600,15 +1600,6 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": ""
-  },
-  {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "U195833b0a6f71d2638f472187681ba44",
-      ""
-    ]
   },
   {
     "id": "SYS_SETTINGS",
