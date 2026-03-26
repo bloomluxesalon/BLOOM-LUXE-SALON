@@ -1534,6 +1534,28 @@
     "notifiedNext": false
   },
   {
+    "id": "Q-069",
+    "status": "Pending",
+    "timestamp": "2026-03-26T05:42:35.506Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Udb92e91d2fe1c22a89f94ce68ca8ff51",
+    "nickname": "Jee Ketcharin",
+    "phone": "0985495991",
+    "course": "60 min",
+    "bookingDate": "2026-03-26",
+    "bookingTime": "13:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
