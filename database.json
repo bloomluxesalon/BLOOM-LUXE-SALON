@@ -898,7 +898,9 @@
     "headPressure": "Medium",
     "caution": "",
     "discount": "",
-    "internalNote": "มา2ท่าน"
+    "internalNote": "มา2ท่าน",
+    "serviceStartTime": "2026-03-28T03:27:25.949Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-042",
