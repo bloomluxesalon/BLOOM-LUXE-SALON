@@ -1725,6 +1725,28 @@
     "notifiedNext": false
   },
   {
+    "id": "Q-077",
+    "status": "Pending",
+    "timestamp": "2026-03-28T10:19:54.540Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "Ua4cbdfb8464d9c09980a85bfcd26a8de",
+    "nickname": "Phatarin49♾",
+    "phone": "0949491491",
+    "course": "60 min",
+    "bookingDate": "2026-03-29",
+    "bookingTime": "16:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "2 คนค่ะ"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
