@@ -1726,7 +1726,7 @@
   },
   {
     "id": "Q-077",
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-03-28T10:19:54.540Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -1883,15 +1883,6 @@
     "caution": "",
     "serviceStartTime": null,
     "notifiedNext": false
-  },
-  {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "U195833b0a6f71d2638f472187681ba44",
-      ""
-    ]
   },
   {
     "id": "SYS_SETTINGS",
