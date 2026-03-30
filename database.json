@@ -1915,6 +1915,28 @@
     "notifiedNext": false
   },
   {
+    "id": "Q-085",
+    "status": "Pending",
+    "timestamp": "2026-03-30T05:38:59.366Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U48cb3177b756d3ef991547ca0832d10b",
+    "nickname": "Ploi",
+    "phone": "0890273161",
+    "course": "60 min",
+    "bookingDate": "2026-03-30",
+    "bookingTime": "13:00",
+    "gender": "Male",
+    "waterTemp": "Cold",
+    "oil": "Orchid",
+    "shampoo": "Chance rich",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
