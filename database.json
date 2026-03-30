@@ -1934,7 +1934,9 @@
     "shampoo": "Chance rich",
     "massagePressure": "Strong",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-03-30T05:43:19.005Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-086",
