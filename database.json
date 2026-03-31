@@ -2073,6 +2073,28 @@
     "caution": ""
   },
   {
+    "id": "Q-092",
+    "status": "Pending",
+    "timestamp": "2026-03-31T17:29:41.349Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U1361bc572b537e05fc7e36ab53fee8f0",
+    "nickname": "Yok 🧸4️⃣9️⃣4️⃣9️⃣✨",
+    "phone": "0614792491",
+    "course": "90 min",
+    "bookingDate": "2026-04-01",
+    "bookingTime": "16:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "ผิวแพ้ง่าย"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
