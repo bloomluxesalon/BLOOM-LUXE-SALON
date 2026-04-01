@@ -2092,7 +2092,9 @@
     "shampoo": "Choose at shop",
     "massagePressure": "Medium",
     "headPressure": "Medium",
-    "caution": "ผิวแพ้ง่าย"
+    "caution": "ผิวแพ้ง่าย",
+    "serviceStartTime": "2026-04-01T11:20:20.523Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-093",
