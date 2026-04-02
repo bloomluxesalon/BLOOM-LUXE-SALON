@@ -2242,7 +2242,7 @@
     "id": "Q-099",
     "status": "Waiting",
     "timestamp": "2026-04-02T05:23:55.436Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": false,
     "actualPrice": 590,
     "orderType": "walkin",
