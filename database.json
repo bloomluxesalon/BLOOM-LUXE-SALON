@@ -2192,7 +2192,7 @@
   },
   {
     "id": "Q-097",
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-02T04:40:16.732Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -2211,28 +2211,6 @@
     "massagePressure": "Strong",
     "headPressure": "Strong",
     "caution": ""
-  },
-  {
-    "id": "Q-098",
-    "status": "Pending",
-    "timestamp": "2026-04-02T04:40:39.660Z",
-    "isPaid": false,
-    "isDepositPaid": false,
-    "actualPrice": 590,
-    "orderType": "walkin",
-    "lineUserId": "Uca850470af15da47fd7fc1c2067c1b3a",
-    "nickname": "Prakaidao⭐️",
-    "phone": "0979955692",
-    "course": "60 min",
-    "bookingDate": "2026-04-02",
-    "bookingTime": "12:00",
-    "gender": "Female",
-    "waterTemp": "Warm",
-    "oil": "Jasmine Rice",
-    "shampoo": "Pink Gold",
-    "massagePressure": "Strong",
-    "headPressure": "Medium",
-    "caution": "แผลจี้เลเซอร์ตรงไหล่"
   },
   {
     "id": "SYS_SETTINGS",
