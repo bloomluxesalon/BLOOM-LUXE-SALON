@@ -2355,14 +2355,16 @@
     "phone": "0974154445",
     "course": "60 min",
     "bookingDate": "2026-04-03",
-    "bookingTime": "19:00",
+    "bookingTime": "19:20",
     "gender": "Male",
     "waterTemp": "Cold",
     "oil": "Marigold",
     "shampoo": "Pink Gold",
     "massagePressure": "Strong",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "discount": "",
+    "internalNote": ""
   },
   {
     "id": "SYS_SETTINGS",
