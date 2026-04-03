@@ -2310,7 +2310,9 @@
     "shampoo": "Honey sunset",
     "massagePressure": "Gentle",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-04-03T06:46:28.374Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
