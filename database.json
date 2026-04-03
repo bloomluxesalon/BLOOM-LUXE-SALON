@@ -2346,7 +2346,7 @@
   },
   {
     "id": "Q-103",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-03T09:13:31.441Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -2367,7 +2367,7 @@
     "caution": "",
     "discount": "",
     "internalNote": "",
-    "serviceStartTime": "2026-04-03T11:57:21.106Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
