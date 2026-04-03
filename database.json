@@ -1999,14 +1999,16 @@
     "phone": "0624082487",
     "course": "90 min",
     "bookingDate": "2026-04-03",
-    "bookingTime": "17:00",
+    "bookingTime": "15:00",
     "gender": "Female",
     "waterTemp": "Warm",
     "oil": "Choose at shop",
     "shampoo": "Choose at shop",
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
-    "caution": ""
+    "caution": "",
+    "discount": "",
+    "internalNote": ""
   },
   {
     "id": "Q-089",
