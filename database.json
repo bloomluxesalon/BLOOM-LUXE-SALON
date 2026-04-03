@@ -2343,7 +2343,7 @@
     "status": "Pending",
     "timestamp": "2026-04-03T09:13:31.441Z",
     "isPaid": false,
-    "isDepositPaid": false,
+    "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "booking",
     "lineUserId": "Ud556f2af399336b260afb23ac75810cd",
