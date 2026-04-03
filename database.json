@@ -2270,7 +2270,7 @@
   },
   {
     "id": "Q-100",
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-04-02T23:42:33.155Z",
     "isPaid": false,
     "isDepositPaid": false,
