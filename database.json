@@ -2344,7 +2344,7 @@
   },
   {
     "id": "Q-103",
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-04-03T09:13:31.441Z",
     "isPaid": false,
     "isDepositPaid": true,
