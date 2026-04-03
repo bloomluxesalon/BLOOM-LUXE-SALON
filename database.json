@@ -2386,7 +2386,9 @@
     "shampoo": "Honey sunset",
     "massagePressure": "Strong",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-04-03T10:09:31.124Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-105",
@@ -2408,7 +2410,9 @@
     "shampoo": "Chance rich",
     "massagePressure": "Medium",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-04-03T10:09:32.434Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
