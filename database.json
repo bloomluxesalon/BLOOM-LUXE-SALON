@@ -2340,7 +2340,9 @@
     "headPressure": "Medium",
     "caution": "",
     "discount": "",
-    "internalNote": ""
+    "internalNote": "",
+    "serviceStartTime": "2026-04-03T11:57:19.672Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-103",
@@ -2364,7 +2366,9 @@
     "headPressure": "Medium",
     "caution": "",
     "discount": "",
-    "internalNote": ""
+    "internalNote": "",
+    "serviceStartTime": "2026-04-03T11:57:21.106Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-104",
