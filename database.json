@@ -2442,7 +2442,7 @@
     "headPressure": "Medium",
     "caution": "ไม่มี",
     "serviceStartTime": "2026-04-04T07:39:25.929Z",
-    "notifiedNext": false
+    "notifiedNext": true
   },
   {
     "id": "Q-107",
@@ -2489,6 +2489,15 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": ""
+  },
+  {
+    "id": "SYS_SETTINGS",
+    "staffLineIds": [
+      "U28e5164b37d8d04842687f73f9dc330c",
+      "U8da0f6a907355a7ad9646a07df0bc861",
+      "U195833b0a6f71d2638f472187681ba44",
+      ""
+    ]
   },
   {
     "id": "SYS_SETTINGS",
