@@ -2422,7 +2422,7 @@
   },
   {
     "id": "Q-106",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-04T07:28:58.807Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -2441,7 +2441,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ไม่มี",
-    "serviceStartTime": "2026-04-04T07:39:25.929Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
