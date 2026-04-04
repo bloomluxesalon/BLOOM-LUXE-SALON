@@ -2446,7 +2446,7 @@
   },
   {
     "id": "Q-107",
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-04T07:32:27.627Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -2465,7 +2465,7 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "",
-    "serviceStartTime": "2026-04-04T08:23:34.608Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
