@@ -2421,6 +2421,28 @@
     "notifiedNext": false
   },
   {
+    "id": "Q-106",
+    "status": "Pending",
+    "timestamp": "2026-04-04T07:28:53.979Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Uc457bc07eba6f25139813edae57cd6e3",
+    "nickname": "Nicknack🌻",
+    "phone": "0639693955",
+    "course": "60 min",
+    "bookingDate": "2026-04-04",
+    "bookingTime": "14:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Gentle",
+    "caution": ""
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
