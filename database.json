@@ -2198,7 +2198,9 @@
     "shampoo": "Choose at shop",
     "massagePressure": "Medium",
     "headPressure": "Medium",
-    "caution": ""
+    "caution": "",
+    "serviceStartTime": "2026-04-04T03:53:41.043Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-097",
