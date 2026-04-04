@@ -2440,7 +2440,9 @@
     "shampoo": "Pink Gold",
     "massagePressure": "Medium",
     "headPressure": "Medium",
-    "caution": "ไม่มี"
+    "caution": "ไม่มี",
+    "serviceStartTime": "2026-04-04T07:39:25.929Z",
+    "notifiedNext": false
   },
   {
     "id": "Q-107",
