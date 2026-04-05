@@ -2534,7 +2534,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "ผิวแพ้ง่าย",
-    "id": "Q-110"
+    "id": "Q-110",
+    "serviceStartTime": "2026-04-05T05:44:06.709Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -2556,7 +2558,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-111"
+    "id": "Q-111",
+    "serviceStartTime": "2026-04-05T05:44:08.108Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
