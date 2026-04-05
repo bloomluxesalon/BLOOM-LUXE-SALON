@@ -2685,7 +2685,7 @@
     "internalNote": ""
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-05T12:33:34.033Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -2705,7 +2705,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-117",
-    "serviceStartTime": "2026-04-05T12:34:52.034Z",
+    "serviceStartTime": null,
     "notifiedNext": false,
     "discount": "",
     "internalNote": ""
