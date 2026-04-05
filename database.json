@@ -2678,7 +2678,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-116"
+    "id": "Q-116",
+    "serviceStartTime": "2026-04-05T12:34:54.366Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -2691,8 +2693,8 @@
     "nickname": "PPMM.",
     "phone": "0659195852",
     "course": "90 min",
-    "bookingDate": "2026-04-06",
-    "bookingTime": "10:00",
+    "bookingDate": "2026-04-05",
+    "bookingTime": "19:35",
     "gender": "Male",
     "waterTemp": "Warm",
     "oil": "White Tea",
@@ -2702,7 +2704,9 @@
     "caution": "",
     "id": "Q-117",
     "serviceStartTime": "2026-04-05T12:34:52.034Z",
-    "notifiedNext": false
+    "notifiedNext": false,
+    "discount": "",
+    "internalNote": ""
   },
   {
     "id": "SYS_SETTINGS",
