@@ -2515,7 +2515,7 @@
     "caution": ""
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-05T05:34:11.839Z",
     "isPaid": false,
     "isDepositPaid": true,
