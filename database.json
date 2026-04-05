@@ -2630,7 +2630,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-114"
+    "id": "Q-114",
+    "serviceStartTime": "2026-04-05T10:11:15.887Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -2652,7 +2654,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ไม่เกาแรง",
-    "id": "Q-115"
+    "id": "Q-115",
+    "serviceStartTime": "2026-04-05T10:11:17.197Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
