@@ -2563,7 +2563,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-05T08:18:18.253Z",
     "isPaid": true,
     "isDepositPaid": true,
@@ -2583,7 +2583,7 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-112",
-    "serviceStartTime": "2026-04-05T08:27:52.951Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
