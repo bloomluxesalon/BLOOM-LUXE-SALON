@@ -2730,7 +2730,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-118"
+    "id": "Q-118",
+    "serviceStartTime": "2026-04-06T06:25:38.807Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
