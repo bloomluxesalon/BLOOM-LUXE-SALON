@@ -2780,7 +2780,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-120"
+    "id": "Q-120",
+    "serviceStartTime": "2026-04-06T09:31:58.841Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
