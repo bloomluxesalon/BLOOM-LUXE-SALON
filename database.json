@@ -2804,10 +2804,12 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-121"
+    "id": "Q-121",
+    "serviceStartTime": "2026-04-07T05:29:43.511Z",
+    "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-04-07T05:21:24.004Z",
     "isPaid": false,
     "isDepositPaid": true,
