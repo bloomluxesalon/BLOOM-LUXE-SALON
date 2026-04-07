@@ -2877,7 +2877,7 @@
     "id": "Q-124"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-07T08:05:02.071Z",
     "isPaid": false,
     "isDepositPaid": true,
