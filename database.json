@@ -2857,7 +2857,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Completed",
+    "status": "Serving",
     "timestamp": "2026-04-07T08:02:22.263Z",
     "isPaid": true,
     "isDepositPaid": true,
@@ -2876,12 +2876,10 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-124",
-    "serviceStartTime": null,
-    "notifiedNext": false
+    "id": "Q-124"
   },
   {
-    "status": "Completed",
+    "status": "Serving",
     "timestamp": "2026-04-07T08:05:02.071Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -2900,9 +2898,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-125",
-    "serviceStartTime": null,
-    "notifiedNext": false
+    "id": "Q-125"
   },
   {
     "status": "Cancelled",
