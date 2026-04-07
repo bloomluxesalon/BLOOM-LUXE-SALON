@@ -2833,7 +2833,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-04-07T06:30:35.198Z",
     "isPaid": false,
     "isDepositPaid": true,
