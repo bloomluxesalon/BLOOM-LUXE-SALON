@@ -2905,7 +2905,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-04-07T09:34:16.672Z",
     "isPaid": false,
     "isDepositPaid": false,
