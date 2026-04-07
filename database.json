@@ -2807,7 +2807,7 @@
     "id": "Q-121"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-07T05:21:24.004Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -2827,28 +2827,6 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-122"
-  },
-  {
-    "status": "Pending",
-    "timestamp": "2026-04-07T05:24:06.944Z",
-    "isPaid": false,
-    "isDepositPaid": false,
-    "actualPrice": 890,
-    "orderType": "walkin",
-    "lineUserId": "U4c90d15004845646fbdd6808b00fd1ec",
-    "nickname": "whanjung",
-    "phone": "0851763419",
-    "course": "90 min",
-    "bookingDate": "2026-04-07",
-    "bookingTime": "14:30",
-    "gender": "Female",
-    "waterTemp": "Warm",
-    "oil": "Orchid",
-    "shampoo": "Honey sunset",
-    "massagePressure": "Medium",
-    "headPressure": "Medium",
-    "caution": "",
-    "id": "Q-123"
   },
   {
     "id": "SYS_SETTINGS",
