@@ -2857,7 +2857,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-07T08:02:22.263Z",
     "isPaid": true,
     "isDepositPaid": true,
@@ -2876,7 +2876,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-124"
+    "id": "Q-124",
+    "serviceStartTime": null
   },
   {
     "status": "Serving",
