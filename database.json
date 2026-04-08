@@ -2880,7 +2880,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-07T08:05:02.071Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -2899,7 +2899,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-125"
+    "id": "Q-125",
+    "serviceStartTime": null
   },
   {
     "status": "Cancelled",
