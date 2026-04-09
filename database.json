@@ -2973,7 +2973,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-09T02:30:54.180Z",
     "isPaid": false,
     "isDepositPaid": true,
