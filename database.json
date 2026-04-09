@@ -2997,7 +2997,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-09T02:32:09.747Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3017,7 +3017,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-130",
-    "serviceStartTime": "2026-04-09T09:54:02.625Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
