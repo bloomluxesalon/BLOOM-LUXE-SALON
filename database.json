@@ -3087,7 +3087,7 @@
     "id": "Q-133"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-10T04:09:05.379Z",
     "isPaid": false,
     "isDepositPaid": true,
