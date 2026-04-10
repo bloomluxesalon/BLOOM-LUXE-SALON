@@ -3062,7 +3062,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ไม่มีค่ะ",
-    "id": "Q-132"
+    "id": "Q-132",
+    "serviceStartTime": "2026-04-10T05:41:49.532Z",
+    "notifiedNext": false
   },
   {
     "status": "Completed",
