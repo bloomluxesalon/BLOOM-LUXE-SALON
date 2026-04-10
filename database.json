@@ -3021,7 +3021,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-10T03:51:06.004Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3041,7 +3041,7 @@
     "headPressure": "Medium",
     "caution": "ไม่มีค่ะ",
     "id": "Q-131",
-    "serviceStartTime": "2026-04-10T06:24:16.310Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
