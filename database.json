@@ -3165,10 +3165,10 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Cancelled",
     "timestamp": "2026-04-11T01:56:18.728Z",
     "isPaid": false,
-    "isDepositPaid": true,
+    "isDepositPaid": false,
     "actualPrice": 590,
     "orderType": "walkin",
     "lineUserId": "Ua8c45e58b5541822ff9801fb5e2acd83",
@@ -3184,9 +3184,7 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-137",
-    "serviceStartTime": "2026-04-11T05:43:09.460Z",
-    "notifiedNext": false
+    "id": "Q-137"
   },
   {
     "id": "SYS_SETTINGS",
