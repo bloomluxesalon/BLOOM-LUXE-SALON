@@ -3211,6 +3211,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-12T05:00:47.233Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U68c6f8a4e4c076ff50cd3758cb3aae60",
+    "nickname": "Jojo #3",
+    "phone": "0969742445",
+    "course": "60 min",
+    "bookingDate": "2026-04-12",
+    "bookingTime": "12:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Orchid",
+    "shampoo": "Chance rich",
+    "massagePressure": "Gentle",
+    "headPressure": "Gentle",
+    "caution": "",
+    "id": "Q-139"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
