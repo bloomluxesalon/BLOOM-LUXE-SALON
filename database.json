@@ -3283,7 +3283,7 @@
     "internalNote": ""
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-12T07:29:24.224Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -3303,7 +3303,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-142",
-    "serviceStartTime": "2026-04-12T07:31:18.112Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
