@@ -3328,7 +3328,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-143"
+    "id": "Q-143",
+    "serviceStartTime": "2026-04-12T08:54:22.436Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
