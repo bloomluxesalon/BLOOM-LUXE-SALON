@@ -3230,7 +3230,9 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-139"
+    "id": "Q-139",
+    "serviceStartTime": "2026-04-12T05:03:39.548Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -3252,7 +3254,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-140"
+    "id": "Q-140",
+    "serviceStartTime": "2026-04-12T05:03:38.850Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
