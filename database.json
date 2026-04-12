@@ -3259,7 +3259,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-12T07:28:08.624Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3281,7 +3281,7 @@
     "id": "Q-141",
     "discount": "",
     "internalNote": "",
-    "serviceStartTime": "2026-04-12T08:53:59.826Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
