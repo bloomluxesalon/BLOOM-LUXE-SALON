@@ -3213,7 +3213,7 @@
   {
     "status": "Waiting",
     "timestamp": "2026-04-12T05:00:47.233Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "walkin",
