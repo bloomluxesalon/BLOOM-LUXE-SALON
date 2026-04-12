@@ -3307,6 +3307,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-12T08:08:03.351Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Ua80fd23747cd7127c130a58e55afad98",
+    "nickname": "เกรียงไกร นาสมโภชน์",
+    "phone": "0896676035",
+    "course": "60 min",
+    "bookingDate": "2026-04-12",
+    "bookingTime": "15:30",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-143"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
