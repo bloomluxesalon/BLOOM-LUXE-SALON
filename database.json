@@ -3333,7 +3333,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-12T10:44:43.829Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3352,7 +3352,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-144"
+    "id": "Q-144",
+    "serviceStartTime": null
   },
   {
     "status": "Serving",
