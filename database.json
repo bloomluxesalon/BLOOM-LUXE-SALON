@@ -3399,7 +3399,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ไม่นวดขมับ ",
-    "id": "Q-146"
+    "id": "Q-146",
+    "serviceStartTime": "2026-04-16T09:26:49.212Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
