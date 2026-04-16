@@ -3355,6 +3355,28 @@
     "id": "Q-144"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-16T04:51:37.673Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U95f0c883f16480c48d073f1fc76df4ee",
+    "nickname": "🤎👸ブック:Phatlita2468💰",
+    "phone": "0829922639",
+    "course": "60 min",
+    "bookingDate": "2026-04-16",
+    "bookingTime": "12:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-145"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
