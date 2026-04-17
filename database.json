@@ -3502,7 +3502,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-17T11:52:06.056Z",
     "isPaid": false,
     "isDepositPaid": true,
