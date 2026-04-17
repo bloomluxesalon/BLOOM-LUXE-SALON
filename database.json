@@ -3430,7 +3430,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-17T09:14:27.189Z",
     "isPaid": false,
     "isDepositPaid": false,
