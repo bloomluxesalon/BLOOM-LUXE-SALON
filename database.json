@@ -3502,6 +3502,28 @@
     "notifiedNext": true
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-17T11:52:06.056Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U05f336e47714003a177bc7dcd5f906c7",
+    "nickname": "Por",
+    "phone": "0992245900",
+    "course": "90 min",
+    "bookingDate": "2026-04-18",
+    "bookingTime": "17:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Gentle",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-151"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
