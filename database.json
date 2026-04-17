@@ -3452,6 +3452,28 @@
     "id": "Q-148"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-17T09:15:35.642Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U04bb5a5b2f93a5c1213506c1ae3872b7",
+    "nickname": "Benz",
+    "phone": "0923829009",
+    "course": "90 min",
+    "bookingDate": "2026-04-17",
+    "bookingTime": "18:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "หนังศีรษะแพ้ง่าย",
+    "id": "Q-149"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
