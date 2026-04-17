@@ -3454,7 +3454,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-17T09:15:35.642Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3474,7 +3474,7 @@
     "headPressure": "Medium",
     "caution": "หนังศีรษะแพ้ง่าย",
     "id": "Q-149",
-    "serviceStartTime": "2026-04-17T11:48:03.834Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
