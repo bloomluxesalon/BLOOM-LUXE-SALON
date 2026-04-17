@@ -3404,7 +3404,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-16T09:36:51.939Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3426,7 +3426,7 @@
     "id": "Q-147",
     "discount": "",
     "internalNote": "",
-    "serviceStartTime": "2026-04-17T05:27:02.290Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
