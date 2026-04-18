@@ -3524,13 +3524,26 @@
     "id": "Q-151"
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      ""
-    ]
+    "status": "Pending",
+    "timestamp": "2026-04-18T02:29:15.023Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U0a0e238ef7335dfe8be9a57c5bc81aa5",
+    "nickname": "Sasikan",
+    "phone": "0983957303",
+    "course": "60 min",
+    "bookingDate": "2026-04-18",
+    "bookingTime": "10:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-152"
   },
   {
     "id": "SYS_SETTINGS",
