@@ -3543,7 +3543,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-152"
+    "id": "Q-152",
+    "serviceStartTime": "2026-04-18T03:11:46.433Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
