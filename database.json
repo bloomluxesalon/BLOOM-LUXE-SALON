@@ -3633,7 +3633,7 @@
     "phone": "0888960166",
     "course": "60 min",
     "bookingDate": "2026-04-18",
-    "bookingTime": "19:00",
+    "bookingTime": "19:30",
     "gender": "Female",
     "waterTemp": "Warm",
     "oil": "White Tea",
@@ -3641,7 +3641,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-156"
+    "id": "Q-156",
+    "discount": "",
+    "internalNote": ""
   },
   {
     "id": "SYS_SETTINGS",
