@@ -3526,7 +3526,7 @@
   {
     "status": "Pending",
     "timestamp": "2026-04-18T02:29:15.023Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": false,
     "actualPrice": 590,
     "orderType": "booking",
