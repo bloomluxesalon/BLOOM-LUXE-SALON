@@ -3572,7 +3572,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-18T04:09:46.951Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -3592,7 +3592,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-154",
-    "serviceStartTime": "2026-04-18T04:20:46.505Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
