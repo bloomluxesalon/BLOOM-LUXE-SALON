@@ -3598,6 +3598,28 @@
     "notifiedNext": true
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-18T11:20:43.770Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "Uc3042c77a4b8b783ee8668e75450f0f9",
+    "nickname": "CHAYAGORN",
+    "phone": "0946765552",
+    "course": "60 min",
+    "bookingDate": "2026-04-18",
+    "bookingTime": "18:30",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-155"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
