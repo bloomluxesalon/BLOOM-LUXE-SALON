@@ -3524,7 +3524,7 @@
     "id": "Q-151"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-18T02:29:15.023Z",
     "isPaid": true,
     "isDepositPaid": false,
