@@ -3548,13 +3548,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      ""
-    ]
+    "status": "Pending",
+    "timestamp": "2026-04-18T04:09:41.336Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U8611dabef8cd02e040f84cbefd51e344",
+    "nickname": "Cecilia Pettersson",
+    "phone": "0815285151",
+    "course": "60 min",
+    "bookingDate": "2026-04-18",
+    "bookingTime": "11:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Orchid",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-153"
   },
   {
     "id": "SYS_SETTINGS",
