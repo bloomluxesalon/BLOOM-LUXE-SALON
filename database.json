@@ -3622,7 +3622,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-18T11:40:32.608Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3644,7 +3644,7 @@
     "id": "Q-156",
     "discount": "",
     "internalNote": "",
-    "serviceStartTime": "2026-04-18T12:33:03.749Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
