@@ -3717,7 +3717,9 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-159"
+    "id": "Q-159",
+    "serviceStartTime": "2026-04-19T08:18:41.027Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -3739,7 +3741,9 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "ผิวแพ้ง่าย",
-    "id": "Q-160"
+    "id": "Q-160",
+    "serviceStartTime": "2026-04-19T08:18:39.961Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
