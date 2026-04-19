@@ -3772,7 +3772,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-19T10:15:47.672Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3792,7 +3792,7 @@
     "headPressure": "Strong",
     "caution": "หน้า",
     "id": "Q-162",
-    "serviceStartTime": "2026-04-19T11:09:57.432Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
@@ -3820,28 +3820,6 @@
     "internalNote": "",
     "serviceStartTime": "2026-04-19T11:09:58.451Z",
     "notifiedNext": false
-  },
-  {
-    "status": "Pending",
-    "timestamp": "2026-04-19T12:08:10.318Z",
-    "isPaid": false,
-    "isDepositPaid": false,
-    "actualPrice": 590,
-    "orderType": "booking",
-    "lineUserId": "U817774b140286ee7b16bee60c95eb67e",
-    "nickname": "nn",
-    "phone": "0918139752",
-    "course": "60 min",
-    "bookingDate": "2026-06-10",
-    "bookingTime": "10:00",
-    "gender": "Female",
-    "waterTemp": "Warm",
-    "oil": "White Tea",
-    "shampoo": "Pink Gold",
-    "massagePressure": "Medium",
-    "headPressure": "Medium",
-    "caution": "",
-    "id": "Q-164"
   },
   {
     "id": "SYS_SETTINGS",
