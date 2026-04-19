@@ -3791,7 +3791,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "หน้า",
-    "id": "Q-162"
+    "id": "Q-162",
+    "serviceStartTime": "2026-04-19T11:09:57.432Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -3815,7 +3817,9 @@
     "caution": "หน้า ",
     "id": "Q-163",
     "discount": "",
-    "internalNote": ""
+    "internalNote": "",
+    "serviceStartTime": "2026-04-19T11:09:58.451Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
