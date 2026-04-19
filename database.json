@@ -3772,6 +3772,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-19T10:15:47.672Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U1bd55962f05908865b96a6e28e13db4e",
+    "nickname": "Faa",
+    "phone": "0822353304",
+    "course": "60 min",
+    "bookingDate": "2026-04-19",
+    "bookingTime": "18:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": "หน้า",
+    "id": "Q-162"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
