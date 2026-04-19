@@ -3805,7 +3805,7 @@
     "phone": "0822353304",
     "course": "60 min",
     "bookingDate": "2026-04-19",
-    "bookingTime": "18:30",
+    "bookingTime": "18:00",
     "gender": "Female",
     "waterTemp": "Cold",
     "oil": "Choose at shop",
@@ -3813,7 +3813,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "หน้า ",
-    "id": "Q-163"
+    "id": "Q-163",
+    "discount": "",
+    "internalNote": ""
   },
   {
     "id": "SYS_SETTINGS",
