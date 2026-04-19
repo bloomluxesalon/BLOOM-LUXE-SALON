@@ -3722,7 +3722,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-19T06:15:57.819Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3742,7 +3742,7 @@
     "headPressure": "Gentle",
     "caution": "ผิวแพ้ง่าย",
     "id": "Q-160",
-    "serviceStartTime": "2026-04-19T08:18:39.961Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
