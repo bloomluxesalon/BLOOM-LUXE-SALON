@@ -3822,7 +3822,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-20T08:17:37.038Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3841,7 +3841,8 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-164"
+    "id": "Q-164",
+    "serviceStartTime": null
   },
   {
     "id": "SYS_SETTINGS",
