@@ -3893,7 +3893,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-04-21T08:43:17.617Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -3912,7 +3912,8 @@
     "massagePressure": "Strong",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-167"
+    "id": "Q-167",
+    "serviceStartTime": null
   },
   {
     "id": "SYS_SETTINGS",
