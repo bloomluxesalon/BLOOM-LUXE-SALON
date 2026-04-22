@@ -4032,7 +4032,7 @@
   {
     "status": "Pending",
     "timestamp": "2026-04-22T06:55:05.702Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": false,
     "actualPrice": 890,
     "orderType": "booking",
