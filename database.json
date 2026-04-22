@@ -4030,7 +4030,7 @@
     "id": "Q-172"
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-22T06:55:05.702Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -4050,7 +4050,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-173",
-    "serviceStartTime": "2026-04-22T07:42:03.102Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
