@@ -3960,7 +3960,7 @@
     "id": "Q-169"
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-21T14:06:03.782Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -3980,7 +3980,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-170",
-    "serviceStartTime": "2026-04-22T06:13:38.825Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
