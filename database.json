@@ -4054,6 +4054,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-22T08:18:43.962Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "Uaca256917858ae414ae4d16db3c5c7b3",
+    "nickname": "Premika64",
+    "phone": "0645692446",
+    "course": "90 min",
+    "bookingDate": "2026-04-25",
+    "bookingTime": "11:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Gentle",
+    "headPressure": "Gentle",
+    "caution": "",
+    "id": "Q-174"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
