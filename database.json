@@ -3982,7 +3982,7 @@
     "id": "Q-170"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-22T03:53:41.429Z",
     "isPaid": true,
     "isDepositPaid": false,
