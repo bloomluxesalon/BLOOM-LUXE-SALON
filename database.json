@@ -4146,7 +4146,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-04-22T10:03:47.076Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4165,7 +4165,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-178"
+    "id": "Q-178",
+    "serviceStartTime": null
   },
   {
     "id": "SYS_SETTINGS",
