@@ -4171,13 +4171,26 @@
     "serviceStartTime": null
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      ""
-    ]
+    "status": "Pending",
+    "timestamp": "2026-04-22T12:29:18.948Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "Ub87cd6dd492ea3607f2d1395dc2fd908",
+    "nickname": "Kwun",
+    "phone": "0929636656",
+    "course": "60 min",
+    "bookingDate": "2026-04-25",
+    "bookingTime": "10:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-179"
   },
   {
     "id": "SYS_SETTINGS",
