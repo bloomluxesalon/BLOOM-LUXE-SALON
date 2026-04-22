@@ -4141,7 +4141,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-177"
+    "id": "Q-177",
+    "serviceStartTime": "2026-04-22T10:18:10.799Z",
+    "notifiedNext": false
   },
   {
     "status": "Waiting",
