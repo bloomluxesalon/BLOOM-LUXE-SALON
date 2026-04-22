@@ -4030,7 +4030,7 @@
     "id": "Q-172"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-22T06:55:05.702Z",
     "isPaid": true,
     "isDepositPaid": false,
