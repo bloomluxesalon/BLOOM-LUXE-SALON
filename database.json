@@ -4344,7 +4344,9 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-186"
+    "id": "Q-186",
+    "serviceStartTime": "2026-04-23T06:21:09.634Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
