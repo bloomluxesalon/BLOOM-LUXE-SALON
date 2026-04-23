@@ -4416,7 +4416,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-189",
-    "serviceStartTime": "2026-04-23T08:04:07.476Z",
+    "serviceStartTime": "2026-04-23T08:04:14.808Z",
     "notifiedNext": false
   },
   {
@@ -4439,9 +4439,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-190",
-    "serviceStartTime": "2026-04-23T08:04:08.395Z",
-    "notifiedNext": false
+    "id": "Q-190"
   },
   {
     "id": "SYS_SETTINGS",
