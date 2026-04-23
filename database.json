@@ -4349,7 +4349,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-23T06:52:03.359Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -4368,7 +4368,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ระวังหู",
-    "id": "Q-187"
+    "id": "Q-187",
+    "serviceStartTime": null
   },
   {
     "status": "Serving",
