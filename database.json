@@ -4303,7 +4303,7 @@
     "id": "Q-184"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-23T04:55:55.524Z",
     "isPaid": false,
     "isDepositPaid": true,
