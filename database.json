@@ -4420,7 +4420,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-23T08:02:49.067Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -4439,7 +4439,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-190"
+    "id": "Q-190",
+    "serviceStartTime": null
   },
   {
     "id": "SYS_SETTINGS",
