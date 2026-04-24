@@ -4470,7 +4470,7 @@
   {
     "status": "Pending",
     "timestamp": "2026-04-24T03:15:20.712Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": false,
     "actualPrice": 890,
     "orderType": "walkin",
