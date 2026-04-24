@@ -4468,6 +4468,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-24T03:15:20.712Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U671fc992f0fd3acad7cc96558c90fc1d",
+    "nickname": "Toi mini",
+    "phone": "0979918258",
+    "course": "90 min",
+    "bookingDate": "2026-04-24",
+    "bookingTime": "15:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-192"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
