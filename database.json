@@ -4570,6 +4570,28 @@
     "id": "Q-195"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-25T06:02:27.121Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U5cf37c123e147c4a43b0f998481e68c6",
+    "nickname": "Waan🍃",
+    "phone": "0891979299",
+    "course": "60 min",
+    "bookingDate": "2026-04-25",
+    "bookingTime": "13:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-196"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
