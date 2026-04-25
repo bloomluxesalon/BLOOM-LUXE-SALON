@@ -4567,12 +4567,10 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-195",
-    "serviceStartTime": "2026-04-25T06:06:32.534Z",
-    "notifiedNext": false
+    "id": "Q-195"
   },
   {
-    "status": "Serving",
+    "status": "Waiting",
     "timestamp": "2026-04-25T06:02:27.121Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4591,9 +4589,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-196",
-    "serviceStartTime": "2026-04-25T06:06:35.752Z",
-    "notifiedNext": false
+    "id": "Q-196"
   },
   {
     "id": "SYS_SETTINGS",
