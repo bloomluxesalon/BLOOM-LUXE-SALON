@@ -4663,7 +4663,9 @@
     "massagePressure": "Gentle",
     "headPressure": "Medium",
     "caution": "ไม่เกาตอนสระผมแรงมากค่ะ",
-    "id": "Q-199"
+    "id": "Q-199",
+    "serviceStartTime": "2026-04-25T09:49:18.770Z",
+    "notifiedNext": false
   },
   {
     "status": "Waiting",
