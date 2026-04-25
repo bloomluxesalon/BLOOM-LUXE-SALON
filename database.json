@@ -4644,13 +4644,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-04-25T09:45:40.621Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U69ac143ae08dc6858a1eef1cf4d4216b",
+    "nickname": "nunwst.",
+    "phone": "0863884031",
+    "course": "90 min",
+    "bookingDate": "2026-04-25",
+    "bookingTime": "18:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Gentle",
+    "headPressure": "Medium",
+    "caution": "ไม่เกาตอนสระผมแรงมากค่ะ",
+    "id": "Q-199"
   },
   {
     "id": "SYS_SETTINGS",
