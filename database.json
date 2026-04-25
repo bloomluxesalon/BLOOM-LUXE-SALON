@@ -4192,7 +4192,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-179"
+    "id": "Q-179",
+    "serviceStartTime": "2026-04-25T06:00:44.646Z",
+    "notifiedNext": false
   },
   {
     "status": "Cancelled",
