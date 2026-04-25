@@ -4267,7 +4267,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-04-23T03:55:40.126Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4286,7 +4286,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-183"
+    "id": "Q-183",
+    "serviceStartTime": null
   },
   {
     "status": "Completed",
