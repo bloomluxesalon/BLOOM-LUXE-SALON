@@ -4567,7 +4567,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-195"
+    "id": "Q-195",
+    "serviceStartTime": "2026-04-25T06:19:25.257Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
