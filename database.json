@@ -4687,7 +4687,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-200"
+    "id": "Q-200",
+    "serviceStartTime": "2026-04-25T09:49:32.685Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
