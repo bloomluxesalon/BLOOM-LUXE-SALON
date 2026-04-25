@@ -4244,7 +4244,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-04-23T03:54:48.782Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4263,7 +4263,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ไม่มี",
-    "id": "Q-182"
+    "id": "Q-182",
+    "serviceStartTime": null
   },
   {
     "status": "Waiting",
