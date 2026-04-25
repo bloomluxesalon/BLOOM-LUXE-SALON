@@ -4596,13 +4596,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-04-25T08:03:32.129Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U6b79836dbb3f6c7c22ff16f6eb308b83",
+    "nickname": "Poong🛡💰🐯",
+    "phone": "0805165651",
+    "course": "90 min",
+    "bookingDate": "2026-04-25",
+    "bookingTime": "16:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-197"
   },
   {
     "id": "SYS_SETTINGS",
