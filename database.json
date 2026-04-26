@@ -4644,7 +4644,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-25T09:45:40.621Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4664,7 +4664,7 @@
     "headPressure": "Medium",
     "caution": "ไม่เกาตอนสระผมแรงมากค่ะ",
     "id": "Q-199",
-    "serviceStartTime": "2026-04-25T09:49:18.770Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
