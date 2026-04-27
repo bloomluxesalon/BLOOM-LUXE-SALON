@@ -4869,7 +4869,7 @@
     "phone": "0947295366",
     "course": "60 min",
     "bookingDate": "2026-04-28",
-    "bookingTime": "17:00",
+    "bookingTime": "18:00",
     "gender": "Female",
     "waterTemp": "Warm",
     "oil": "White Tea",
@@ -4877,7 +4877,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "ไม่กดบนบริเวณใบหน้าคะ พึ่งฉีกหน้ามา (โปรแกรมสระไดร์+ม้วนลอนคะ)",
-    "id": "Q-208"
+    "id": "Q-208",
+    "discount": "",
+    "internalNote": ""
   },
   {
     "id": "SYS_SETTINGS",
