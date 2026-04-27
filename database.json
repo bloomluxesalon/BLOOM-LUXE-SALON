@@ -4810,7 +4810,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-27T10:12:41.267Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4830,7 +4830,7 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-206",
-    "serviceStartTime": "2026-04-27T10:14:29.154Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
