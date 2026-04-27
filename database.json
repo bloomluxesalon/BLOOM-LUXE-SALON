@@ -4858,13 +4858,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-04-27T19:10:56.113Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U1385c7ff2d3a663e0b4b155862cb0b32",
+    "nickname": "🦋𝓙𝓮𝓮𝓹🦋",
+    "phone": "0947295366",
+    "course": "60 min",
+    "bookingDate": "2026-04-28",
+    "bookingTime": "17:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": "ไม่กดบนบริเวณใบหน้าคะ พึ่งฉีกหน้ามา (โปรแกรมสระไดร์+ม้วนลอนคะ)",
+    "id": "Q-208"
   },
   {
     "id": "SYS_SETTINGS",
