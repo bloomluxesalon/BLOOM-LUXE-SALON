@@ -4972,6 +4972,28 @@
     "id": "Q-212"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-28T10:45:27.677Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U1b4b79d6fff962d3c46d0f3d37e7cee4",
+    "nickname": "ʕ·ᴥ·ʔ𝐉𝐎𝐎𝐍𝐊𝐎𝐄ʕ·ᴥ·ʔ",
+    "phone": "0962749963",
+    "course": "60 min",
+    "bookingDate": "2026-04-28",
+    "bookingTime": "18:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Orchid",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "ต้นคอ หลังหูซ้าย",
+    "id": "Q-213"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
