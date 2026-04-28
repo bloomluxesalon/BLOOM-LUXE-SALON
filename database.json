@@ -5043,7 +5043,9 @@
     "massagePressure": "Strong",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-215"
+    "id": "Q-215",
+    "serviceStartTime": "2026-04-28T12:02:59.372Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
