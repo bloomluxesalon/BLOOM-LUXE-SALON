@@ -4994,7 +4994,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ต้นคอ หลังหูซ้าย",
-    "id": "Q-213"
+    "id": "Q-213",
+    "serviceStartTime": "2026-04-28T10:49:56.597Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -5016,7 +5018,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-214"
+    "id": "Q-214",
+    "serviceStartTime": "2026-04-28T10:49:57.612Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
