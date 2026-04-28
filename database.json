@@ -4909,7 +4909,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-04-28T08:54:38.275Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -4928,7 +4928,8 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-210"
+    "id": "Q-210",
+    "serviceStartTime": null
   },
   {
     "status": "Serving",
