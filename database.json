@@ -4976,7 +4976,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-28T10:45:27.677Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4996,7 +4996,7 @@
     "headPressure": "Medium",
     "caution": "ต้นคอ หลังหูซ้าย",
     "id": "Q-213",
-    "serviceStartTime": "2026-04-28T10:49:56.597Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
