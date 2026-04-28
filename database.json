@@ -4528,7 +4528,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Cancelled",
+    "status": "Pending",
     "timestamp": "2026-04-24T05:10:49.628Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -4547,8 +4547,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-194",
-    "serviceStartTime": null
+    "id": "Q-194"
   },
   {
     "status": "Completed",
@@ -4693,7 +4692,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Cancelled",
+    "status": "Serving",
     "timestamp": "2026-04-26T06:26:16.839Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4712,9 +4711,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "แผลผ่าคลอด  (มา2คนนะคะ)",
-    "id": "Q-201",
-    "serviceStartTime": null,
-    "notifiedNext": false
+    "id": "Q-201"
   },
   {
     "status": "Completed",
@@ -4928,8 +4925,7 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-210",
-    "serviceStartTime": null
+    "id": "Q-210"
   },
   {
     "status": "Serving",
@@ -4951,9 +4947,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-211",
-    "serviceStartTime": "2026-04-28T09:14:45.069Z",
-    "notifiedNext": false
+    "id": "Q-211"
   },
   {
     "status": "Serving",
@@ -4975,9 +4969,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-212",
-    "serviceStartTime": "2026-04-28T09:14:45.707Z",
-    "notifiedNext": false
+    "id": "Q-212"
   },
   {
     "id": "SYS_SETTINGS",
