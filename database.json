@@ -4882,7 +4882,7 @@
     "internalNote": ""
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-28T05:23:05.764Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4902,7 +4902,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-209",
-    "serviceStartTime": "2026-04-28T09:03:49.039Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
