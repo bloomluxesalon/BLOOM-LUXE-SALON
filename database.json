@@ -4861,15 +4861,15 @@
     "status": "Pending",
     "timestamp": "2026-04-27T19:10:56.113Z",
     "isPaid": false,
-    "isDepositPaid": false,
+    "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "booking",
     "lineUserId": "U1385c7ff2d3a663e0b4b155862cb0b32",
     "nickname": "🦋𝓙𝓮𝓮𝓹🦋",
     "phone": "0947295366",
     "course": "60 min",
-    "bookingDate": "2026-04-28",
-    "bookingTime": "18:00",
+    "bookingDate": "2026-04-29",
+    "bookingTime": "16:30",
     "gender": "Female",
     "waterTemp": "Warm",
     "oil": "White Tea",
@@ -4947,9 +4947,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-211",
-    "serviceStartTime": "2026-04-28T09:05:02.383Z",
-    "notifiedNext": false
+    "id": "Q-211"
   },
   {
     "status": "Serving",
@@ -4971,9 +4969,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-212",
-    "serviceStartTime": "2026-04-28T09:05:03.334Z",
-    "notifiedNext": false
+    "id": "Q-212"
   },
   {
     "id": "SYS_SETTINGS",
