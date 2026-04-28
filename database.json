@@ -5071,7 +5071,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-04-28T12:53:23.435Z",
     "isPaid": false,
     "isDepositPaid": false,
