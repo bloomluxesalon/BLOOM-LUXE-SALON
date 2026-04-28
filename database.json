@@ -4882,7 +4882,7 @@
     "internalNote": ""
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-28T05:23:05.764Z",
     "isPaid": false,
     "isDepositPaid": true,
