@@ -4860,7 +4860,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-27T19:10:56.113Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -4882,7 +4882,7 @@
     "id": "Q-208",
     "discount": "",
     "internalNote": "",
-    "serviceStartTime": "2026-04-29T11:38:58.523Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
