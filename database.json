@@ -4881,7 +4881,9 @@
     "caution": "ไม่กดบนบริเวณใบหน้าคะ พึ่งฉีกหน้ามา (โปรแกรมสระไดร์+ม้วนลอนคะ)",
     "id": "Q-208",
     "discount": "",
-    "internalNote": ""
+    "internalNote": "",
+    "serviceStartTime": "2026-04-29T11:38:58.523Z",
+    "notifiedNext": false
   },
   {
     "status": "Completed",
