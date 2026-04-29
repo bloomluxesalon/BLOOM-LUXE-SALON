@@ -5112,7 +5112,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-218"
+    "id": "Q-218",
+    "serviceStartTime": "2026-04-29T04:48:56.256Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
