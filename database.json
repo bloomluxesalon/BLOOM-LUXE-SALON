@@ -5213,7 +5213,7 @@
     "id": "Q-222"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-29T11:40:55.702Z",
     "isPaid": true,
     "isDepositPaid": false,
