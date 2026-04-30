@@ -5262,7 +5262,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-04-30T08:21:22.552Z",
     "isPaid": false,
     "isDepositPaid": true,
