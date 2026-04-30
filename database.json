@@ -5450,7 +5450,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-04-30T15:54:44.933Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -5469,7 +5469,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "แขนซ้ายใส่เหล็ก ผิวแพ้ง่าย ",
-    "id": "Q-233"
+    "id": "Q-233",
+    "serviceStartTime": null
   },
   {
     "id": "SYS_SETTINGS",
