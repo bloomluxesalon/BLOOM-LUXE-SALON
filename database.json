@@ -5404,13 +5404,26 @@
     "id": "Q-230"
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-04-30T12:14:31.791Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Ub15272b78071a2e11649b2aefd473e0b",
+    "nickname": "John",
+    "phone": "‪+66 63 054 3505‬",
+    "course": "60 min",
+    "bookingDate": "2026-04-30",
+    "bookingTime": "19:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-231"
   },
   {
     "id": "SYS_SETTINGS",
