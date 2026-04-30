@@ -5332,6 +5332,28 @@
     "id": "Q-227"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-04-30T10:08:42.369Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Ueeb9edc400803f3e6333254a6c837cc6",
+    "nickname": "⛄️BUA🫧",
+    "phone": "0992924477",
+    "course": "60 min",
+    "bookingDate": "2026-04-30",
+    "bookingTime": "17:09",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-228"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
