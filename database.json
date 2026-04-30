@@ -5445,7 +5445,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-232"
+    "id": "Q-232",
+    "serviceStartTime": "2026-04-30T12:43:37.115Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
