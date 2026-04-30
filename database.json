@@ -5191,7 +5191,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-29T11:39:05.251Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -5210,7 +5210,8 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-222"
+    "id": "Q-222",
+    "serviceStartTime": null
   },
   {
     "status": "Serving",
