@@ -5262,7 +5262,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-04-30T08:21:22.552Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -5282,7 +5282,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-225",
-    "serviceStartTime": "2026-04-30T08:27:26.497Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
