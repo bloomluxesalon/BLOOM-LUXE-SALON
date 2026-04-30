@@ -5329,7 +5329,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-227"
+    "id": "Q-227",
+    "serviceStartTime": "2026-04-30T10:31:46.977Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -5351,7 +5353,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-228"
+    "id": "Q-228",
+    "serviceStartTime": "2026-04-30T10:31:47.772Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
