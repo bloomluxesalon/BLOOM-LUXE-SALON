@@ -5495,6 +5495,28 @@
     "id": "Q-234"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-01T02:57:01.916Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U1249d0abde3132cb6850b40727ecb509",
+    "nickname": "🇹🇭 송탐 OFF ♾️♾️",
+    "phone": "0824688582",
+    "course": "60 min",
+    "bookingDate": "2026-05-01",
+    "bookingTime": "10:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-235"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
