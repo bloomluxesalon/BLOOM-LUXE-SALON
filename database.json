@@ -5611,6 +5611,28 @@
     "id": "Q-239"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-01T06:01:36.473Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Ub9ccda5bafa3d43d7b1e9ab91588778f",
+    "nickname": "fong",
+    "phone": "0889241447",
+    "course": "60 min",
+    "bookingDate": "2026-05-01",
+    "bookingTime": "13:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-240"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
