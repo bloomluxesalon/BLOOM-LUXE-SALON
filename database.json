@@ -5661,7 +5661,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-01T06:56:08.609Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -5681,7 +5681,7 @@
     "headPressure": "Strong",
     "caution": "ชอบให้เกาด้านหลังให้ค่ะ 🥰",
     "id": "Q-242",
-    "serviceStartTime": "2026-05-01T07:19:13.165Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
