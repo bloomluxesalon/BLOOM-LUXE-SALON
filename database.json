@@ -5680,7 +5680,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "ชอบให้เกาด้านหลังให้ค่ะ 🥰",
-    "id": "Q-242"
+    "id": "Q-242",
+    "serviceStartTime": "2026-05-01T07:19:13.165Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
