@@ -5709,6 +5709,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-01T11:33:04.339Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U31914737166e31f9c2785b6da6e7977d",
+    "nickname": "🍃❄️JOB🌦🍀",
+    "phone": "0618544646",
+    "course": "60 min",
+    "bookingDate": "2026-05-01",
+    "bookingTime": "19:33",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-244"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
