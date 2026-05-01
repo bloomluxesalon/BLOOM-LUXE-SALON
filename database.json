@@ -5682,7 +5682,9 @@
     "caution": "ชอบให้เกาด้านหลังให้ค่ะ 🥰",
     "id": "Q-242",
     "discount": "",
-    "internalNote": ""
+    "internalNote": "",
+    "serviceStartTime": "2026-05-01T07:14:35.709Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
