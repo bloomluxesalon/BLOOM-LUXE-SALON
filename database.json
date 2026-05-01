@@ -5672,7 +5672,7 @@
     "phone": "0926728899",
     "course": "90 min",
     "bookingDate": "2026-05-01",
-    "bookingTime": "15:30",
+    "bookingTime": "14:05",
     "gender": "Female",
     "waterTemp": "Cold",
     "oil": "Marigold",
@@ -5680,7 +5680,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "ชอบให้เกาด้านหลังให้ค่ะ 🥰",
-    "id": "Q-242"
+    "id": "Q-242",
+    "discount": "",
+    "internalNote": ""
   },
   {
     "id": "SYS_SETTINGS",
