@@ -5640,7 +5640,7 @@
     "status": "Serving",
     "timestamp": "2026-05-01T06:54:43.286Z",
     "isPaid": false,
-    "isDepositPaid": false,
+    "isDepositPaid": true,
     "actualPrice": 890,
     "orderType": "walkin",
     "lineUserId": "U0a0f16d1c7160451589afb446a259482",
