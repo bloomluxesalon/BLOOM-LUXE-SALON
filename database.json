@@ -5613,7 +5613,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-01T06:01:36.473Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -5633,7 +5633,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-240",
-    "serviceStartTime": "2026-05-01T06:17:32.285Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
