@@ -5517,6 +5517,28 @@
     "id": "Q-235"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-01T02:57:12.938Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U1d44bedb56a7593b50d5ae9b756e1883",
+    "nickname": "Nuch 🐰🐢",
+    "phone": "0819498177",
+    "course": "60 min",
+    "bookingDate": "2026-05-01",
+    "bookingTime": "10:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Gentle",
+    "caution": "",
+    "id": "Q-236"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
