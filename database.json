@@ -3938,7 +3938,7 @@
     "id": "Q-168"
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-04-21T14:05:12.293Z",
     "isPaid": true,
     "isDepositPaid": false,
