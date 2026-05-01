@@ -3940,7 +3940,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Cancelled",
     "timestamp": "2026-04-21T14:05:12.293Z",
     "isPaid": true,
     "isDepositPaid": false,
@@ -3959,9 +3959,7 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-169",
-    "serviceStartTime": "2026-05-01T04:18:56.108Z",
-    "notifiedNext": false
+    "id": "Q-169"
   },
   {
     "status": "Completed",
