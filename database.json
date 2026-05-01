@@ -5519,7 +5519,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-01T02:57:12.938Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -5539,7 +5539,7 @@
     "headPressure": "Gentle",
     "caution": "",
     "id": "Q-236",
-    "serviceStartTime": "2026-05-01T03:00:24.376Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
