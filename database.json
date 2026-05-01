@@ -5495,7 +5495,7 @@
     "id": "Q-234"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-01T02:57:01.916Z",
     "isPaid": false,
     "isDepositPaid": false,
