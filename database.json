@@ -5637,6 +5637,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-01T06:54:43.286Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U0a0f16d1c7160451589afb446a259482",
+    "nickname": "Top_Angkarb",
+    "phone": "0918701549",
+    "course": "90 min",
+    "bookingDate": "2026-05-01",
+    "bookingTime": "14:00",
+    "gender": "Male",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-241"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
