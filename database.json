@@ -5948,7 +5948,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-02T08:57:17.291Z",
     "isPaid": false,
     "isDepositPaid": false,
