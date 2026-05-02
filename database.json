@@ -5757,7 +5757,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-05-01T16:33:29.417Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -5776,7 +5776,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-246"
+    "id": "Q-246",
+    "serviceStartTime": null
   },
   {
     "status": "Waiting",
