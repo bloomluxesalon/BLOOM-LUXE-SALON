@@ -5991,7 +5991,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-255"
+    "id": "Q-255",
+    "serviceStartTime": "2026-05-02T09:04:51.423Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
