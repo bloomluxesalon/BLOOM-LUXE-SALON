@@ -5803,6 +5803,28 @@
     "serviceStartTime": null
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-02T03:01:07.919Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U659352f14377acbb7673458106df7dac",
+    "nickname": "*𝓑𝓸𝔀 🎀𖥧𝓢𝓮𝓽𝓽𝓱𝓲𝓬𝓱𝓸𝓴🌻19",
+    "phone": "0985868595",
+    "course": "60 min",
+    "bookingDate": "2026-05-02",
+    "bookingTime": "10:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-248"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
