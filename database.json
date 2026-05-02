@@ -5384,7 +5384,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-04-30T11:15:54.528Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -5403,7 +5403,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ผิวหน้าแพ้ง่าย",
-    "id": "Q-230"
+    "id": "Q-230",
+    "serviceStartTime": null
   },
   {
     "status": "Cancelled",
