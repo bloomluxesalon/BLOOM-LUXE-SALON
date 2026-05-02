@@ -5996,7 +5996,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-02T10:36:53.629Z",
     "isPaid": false,
     "isDepositPaid": true,
