@@ -5996,13 +5996,26 @@
     "notifiedNext": false
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-02T10:36:53.629Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U1c0bb76fd91c8a1cf2946635cb6316fb",
+    "nickname": "CHUTARAT. 🪬",
+    "phone": "0954350538",
+    "course": "90 min",
+    "bookingDate": "2026-05-02",
+    "bookingTime": "17:34",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Jasmine Rice",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-256"
   },
   {
     "id": "SYS_SETTINGS",
