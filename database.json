@@ -5851,6 +5851,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-02T05:28:33.714Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "Uc657a745b915a15841c48d59f3c4c691",
+    "nickname": "⭐️Pu⭐️",
+    "phone": "0894886317",
+    "course": "60 min",
+    "bookingDate": "2026-05-02",
+    "bookingTime": "12:30",
+    "gender": "Male",
+    "waterTemp": "Cold",
+    "oil": "White Tea",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-250"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
