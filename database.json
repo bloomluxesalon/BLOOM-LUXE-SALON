@@ -6039,7 +6039,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-257"
+    "id": "Q-257",
+    "serviceStartTime": "2026-05-02T13:01:40.188Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
