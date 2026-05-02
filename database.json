@@ -5873,7 +5873,7 @@
     "caution": "",
     "id": "Q-250",
     "serviceStartTime": "2026-05-02T05:30:33.430Z",
-    "notifiedNext": false
+    "notifiedNext": true
   },
   {
     "status": "Serving",
@@ -5897,7 +5897,7 @@
     "caution": "",
     "id": "Q-251",
     "serviceStartTime": "2026-05-02T05:32:14.893Z",
-    "notifiedNext": true
+    "notifiedNext": false
   },
   {
     "status": "Serving",
