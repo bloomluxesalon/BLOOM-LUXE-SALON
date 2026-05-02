@@ -6020,13 +6020,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-02T12:56:59.767Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U753c016b01631432a47fb463afa1e589",
+    "nickname": "kiddy.",
+    "phone": "0841411458",
+    "course": "60 min",
+    "bookingDate": "2026-05-02",
+    "bookingTime": "20:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Orchid",
+    "shampoo": "Chance rich",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-257"
   },
   {
     "id": "SYS_SETTINGS",
