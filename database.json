@@ -5873,7 +5873,7 @@
     "id": "Q-250"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-02T05:28:50.314Z",
     "isPaid": false,
     "isDepositPaid": true,
