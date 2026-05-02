@@ -5822,7 +5822,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-248"
+    "id": "Q-248",
+    "serviceStartTime": "2026-05-02T03:05:07.273Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
