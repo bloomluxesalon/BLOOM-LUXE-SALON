@@ -5803,7 +5803,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-02T03:01:07.919Z",
     "isPaid": false,
     "isDepositPaid": false,
