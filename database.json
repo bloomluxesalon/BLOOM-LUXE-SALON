@@ -5924,7 +5924,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-02T06:33:21.795Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -5944,7 +5944,7 @@
     "headPressure": "Medium",
     "caution": "ผิวหน้าแพ้ง่ายขอไม่นวดหน้านะคะ แต่กดจุดหน้าผากได้ค่ะ",
     "id": "Q-253",
-    "serviceStartTime": "2026-05-02T06:35:03.081Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
