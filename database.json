@@ -5870,7 +5870,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-250"
+    "id": "Q-250",
+    "serviceStartTime": "2026-05-02T05:30:33.430Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
