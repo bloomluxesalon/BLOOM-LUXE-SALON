@@ -5924,22 +5924,26 @@
     "notifiedNext": false
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
-  },
-  {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-02T06:33:21.795Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U4be838a6ef039b1f2d5225650f2e887d",
+    "nickname": "Sand",
+    "phone": "0813432864",
+    "course": "90 min",
+    "bookingDate": "2026-05-02",
+    "bookingTime": "14:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "ผิวหน้าแพ้ง่ายขอไม่นวดหน้านะคะ แต่กดจุดหน้าผากได้ค่ะ",
+    "id": "Q-253"
   },
   {
     "id": "SYS_SETTINGS",
