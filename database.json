@@ -5972,6 +5972,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-02T09:03:31.277Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U026b52622ef7e80bf67365e0e5801735",
+    "nickname": "puncharat_rw",
+    "phone": "0843721178",
+    "course": "90 min",
+    "bookingDate": "2026-05-02",
+    "bookingTime": "17:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Orchid",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-255"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
