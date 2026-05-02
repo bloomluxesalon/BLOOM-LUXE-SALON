@@ -5780,7 +5780,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-05-01T16:35:38.491Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -5799,7 +5799,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-247"
+    "id": "Q-247",
+    "serviceStartTime": null
   },
   {
     "id": "SYS_SETTINGS",
