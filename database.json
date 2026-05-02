@@ -5943,7 +5943,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ผิวหน้าแพ้ง่ายขอไม่นวดหน้านะคะ แต่กดจุดหน้าผากได้ค่ะ",
-    "id": "Q-253"
+    "id": "Q-253",
+    "serviceStartTime": "2026-05-02T06:35:03.081Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
