@@ -6063,7 +6063,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-258"
+    "id": "Q-258",
+    "serviceStartTime": "2026-05-03T03:07:29.425Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
