@@ -6140,7 +6140,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-03T08:11:17.025Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -6160,7 +6160,7 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-262",
-    "serviceStartTime": "2026-05-03T08:11:51.276Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
@@ -6185,7 +6185,7 @@
     "caution": "ผมร่วงเยอะ หนังศรีษะอักเสบง่าย",
     "id": "Q-263",
     "serviceStartTime": "2026-05-03T09:29:03.725Z",
-    "notifiedNext": false
+    "notifiedNext": true
   },
   {
     "status": "Serving",
@@ -6209,7 +6209,7 @@
     "caution": "",
     "id": "Q-264",
     "serviceStartTime": "2026-05-03T09:29:04.556Z",
-    "notifiedNext": true
+    "notifiedNext": false
   },
   {
     "status": "Pending",
