@@ -6044,7 +6044,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-03T03:05:41.253Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -6064,7 +6064,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-258",
-    "serviceStartTime": "2026-05-03T03:07:29.425Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
