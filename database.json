@@ -6183,7 +6183,9 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "ผมร่วงเยอะ หนังศรีษะอักเสบง่าย",
-    "id": "Q-263"
+    "id": "Q-263",
+    "serviceStartTime": "2026-05-03T09:29:03.725Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -6205,7 +6207,9 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-264"
+    "id": "Q-264",
+    "serviceStartTime": "2026-05-03T09:29:04.556Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
