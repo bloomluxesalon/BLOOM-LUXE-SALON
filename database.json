@@ -6212,6 +6212,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-03T10:55:50.493Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U0fcd776be48aa0a4bc7c322d5991e54a",
+    "nickname": "🐾Saipai2n🐾",
+    "phone": "0623899893",
+    "course": "90 min",
+    "bookingDate": "2026-05-03",
+    "bookingTime": "18:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Jasmine Rice",
+    "shampoo": "Chance rich",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "ระวังผมที่ทำสีฟ้าหน่อยค่ะ มันขาดง่าย😅",
+    "id": "Q-265"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
