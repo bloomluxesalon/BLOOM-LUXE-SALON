@@ -6020,7 +6020,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-02T12:56:59.767Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -6040,7 +6040,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-257",
-    "serviceStartTime": "2026-05-02T13:01:40.188Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
