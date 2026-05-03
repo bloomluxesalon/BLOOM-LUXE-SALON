@@ -6044,10 +6044,10 @@
     "notifiedNext": true
   },
   {
-    "status": "Waiting",
+    "status": "Pending",
     "timestamp": "2026-05-03T03:05:41.253Z",
     "isPaid": false,
-    "isDepositPaid": false,
+    "isDepositPaid": true,
     "actualPrice": 890,
     "orderType": "walkin",
     "lineUserId": "U79c3ca6189f028bcb56069834bdce074",
