@@ -6140,7 +6140,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-03T08:11:17.025Z",
     "isPaid": false,
     "isDepositPaid": true,
