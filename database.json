@@ -6212,7 +6212,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-03T10:55:50.493Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -6232,7 +6232,7 @@
     "headPressure": "Medium",
     "caution": "ระวังผมที่ทำสีฟ้าหน่อยค่ะ มันขาดง่าย😅",
     "id": "Q-265",
-    "serviceStartTime": "2026-05-03T11:04:12.344Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
