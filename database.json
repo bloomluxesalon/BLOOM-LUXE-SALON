@@ -6111,7 +6111,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-260"
+    "id": "Q-260",
+    "serviceStartTime": "2026-05-03T06:03:04.216Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
