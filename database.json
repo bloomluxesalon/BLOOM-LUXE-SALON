@@ -6212,7 +6212,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-03T10:55:50.493Z",
     "isPaid": false,
     "isDepositPaid": true,
