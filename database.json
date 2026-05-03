@@ -6090,7 +6090,7 @@
     "id": "Q-259"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-03T06:00:01.561Z",
     "isPaid": false,
     "isDepositPaid": true,
