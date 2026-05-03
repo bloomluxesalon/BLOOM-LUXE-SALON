@@ -6116,6 +6116,28 @@
     "notifiedNext": true
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-03T08:00:29.936Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U8942a1391fe3f0efc3bf31d16e5a9a99",
+    "nickname": "Nid💞💞",
+    "phone": "0636628247",
+    "course": "60 min",
+    "bookingDate": "2026-05-03",
+    "bookingTime": "15:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Orchid",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-261"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
