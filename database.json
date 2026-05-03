@@ -6164,7 +6164,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-03T09:17:51.993Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -6184,7 +6184,7 @@
     "headPressure": "Gentle",
     "caution": "ผมร่วงเยอะ หนังศรีษะอักเสบง่าย",
     "id": "Q-263",
-    "serviceStartTime": "2026-05-03T09:29:03.725Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
