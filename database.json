@@ -6502,7 +6502,7 @@
     "status": "Pending",
     "timestamp": "2026-05-04T13:00:02.717Z",
     "isPaid": false,
-    "isDepositPaid": false,
+    "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "walkin",
     "lineUserId": "U8edb6a9eb480687c1b3a3a78fead873f",
