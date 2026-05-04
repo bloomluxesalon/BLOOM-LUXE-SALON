@@ -6451,6 +6451,28 @@
     "notifiedNext": true
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-04T11:01:17.824Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "Ud3de56bda6262185d74bbfe17b3a6789",
+    "nickname": "เมฆน้อยลอยต่ำ",
+    "phone": "0657279045",
+    "course": "90 min",
+    "bookingDate": "2026-05-04",
+    "bookingTime": "18:00",
+    "gender": "Male",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-275"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
