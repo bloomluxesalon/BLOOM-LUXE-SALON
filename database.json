@@ -6258,7 +6258,7 @@
     "id": "Q-266"
   },
   {
-    "status": "Serving",
+    "status": "Cancelled",
     "timestamp": "2026-05-04T01:24:01.446Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -6277,7 +6277,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-267"
+    "id": "Q-267",
+    "serviceStartTime": null
   },
   {
     "status": "Serving",
