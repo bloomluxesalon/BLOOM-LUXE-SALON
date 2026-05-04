@@ -6397,7 +6397,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-272"
+    "id": "Q-272",
+    "serviceStartTime": "2026-05-04T07:02:38.321Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
