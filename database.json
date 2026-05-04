@@ -6351,6 +6351,28 @@
     "id": "Q-270"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-04T04:58:57.453Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "Ud0126b2759f38924a56b6ed6870db1b5",
+    "nickname": "Phett.",
+    "phone": "0901892335",
+    "course": "90 min",
+    "bookingDate": "2026-05-04",
+    "bookingTime": "12:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-271"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
