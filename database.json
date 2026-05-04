@@ -6402,7 +6402,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-04T08:13:37.689Z",
     "isPaid": false,
     "isDepositPaid": true,
