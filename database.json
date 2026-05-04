@@ -6473,6 +6473,28 @@
     "id": "Q-275"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-04T11:01:26.179Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U5784a7daee88a22c9e73eeb7ec9bf460",
+    "nickname": "กันต์",
+    "phone": "0926071162",
+    "course": "90 min",
+    "bookingDate": "2026-05-04",
+    "bookingTime": "18:00",
+    "gender": "Male",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-276"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
