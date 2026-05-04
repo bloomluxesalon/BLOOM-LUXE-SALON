@@ -6375,6 +6375,28 @@
     "id": "Q-271"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-04T06:53:59.911Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Ucb0bcfe74f77f0c1e6f2daa6e6264aa7",
+    "nickname": "ติส4265",
+    "phone": "0821569442",
+    "course": "60 min",
+    "bookingDate": "2026-05-04",
+    "bookingTime": "14:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "White Tea",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Strong",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-272"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
