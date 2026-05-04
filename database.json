@@ -6499,7 +6499,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-04T13:00:02.717Z",
     "isPaid": false,
     "isDepositPaid": true,
