@@ -6422,7 +6422,9 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-273"
+    "id": "Q-273",
+    "serviceStartTime": "2026-05-04T08:19:34.531Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
