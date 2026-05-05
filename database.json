@@ -6523,7 +6523,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-05-04T18:23:00.796Z",
     "isPaid": false,
     "isDepositPaid": false,
