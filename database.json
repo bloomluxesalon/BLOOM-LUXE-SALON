@@ -6593,6 +6593,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-05T11:00:40.464Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "Ue74ba1f5bdf9f73cbd8f2b932cd35e83",
+    "nickname": "Bo  ♥️",
+    "phone": "0866644198",
+    "course": "60 min",
+    "bookingDate": "2026-05-05",
+    "bookingTime": "18:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Jasmine Rice",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-281"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
