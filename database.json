@@ -6687,7 +6687,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-06T03:00:08.486Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -6706,7 +6706,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-285"
+    "id": "Q-285",
+    "serviceStartTime": null
   },
   {
     "status": "Serving",
