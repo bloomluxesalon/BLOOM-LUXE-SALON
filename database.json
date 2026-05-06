@@ -6822,7 +6822,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-290"
+    "id": "Q-290",
+    "serviceStartTime": "2026-05-06T10:42:19.701Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
