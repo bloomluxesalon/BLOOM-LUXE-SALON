@@ -6731,6 +6731,28 @@
     "id": "Q-286"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-06T04:38:15.232Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "Uba4581b94a38dd9908f6c34e2e5f78d5",
+    "nickname": "punchy 🐈‍⬛ ౨ৎ",
+    "phone": "0931258565",
+    "course": "60 min",
+    "bookingDate": "2026-05-06",
+    "bookingTime": "13:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-287"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
