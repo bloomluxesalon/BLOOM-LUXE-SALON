@@ -6803,7 +6803,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-06T10:40:55.189Z",
     "isPaid": false,
     "isDepositPaid": false,
