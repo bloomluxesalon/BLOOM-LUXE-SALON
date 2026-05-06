@@ -6755,7 +6755,7 @@
     "id": "Q-287"
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-06T06:00:56.024Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -6775,7 +6775,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-288",
-    "serviceStartTime": "2026-05-06T06:03:16.572Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
@@ -6801,15 +6801,6 @@
     "id": "Q-289",
     "serviceStartTime": "2026-05-06T06:59:01.598Z",
     "notifiedNext": false
-  },
-  {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
   },
   {
     "id": "SYS_SETTINGS",
