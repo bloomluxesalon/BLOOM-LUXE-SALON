@@ -6685,6 +6685,28 @@
     "id": "Q-284"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-06T03:00:08.486Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U7b525b388e045bc939101ab99771bb41",
+    "nickname": "อเมริกาเน่🖤",
+    "phone": "0913724797",
+    "course": "90 min",
+    "bookingDate": "2026-05-06",
+    "bookingTime": "11:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Orchid",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-285"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
