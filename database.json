@@ -6798,7 +6798,9 @@
     "massagePressure": "Strong",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-289"
+    "id": "Q-289",
+    "serviceStartTime": "2026-05-06T06:59:01.598Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
