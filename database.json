@@ -6663,6 +6663,28 @@
     "id": "Q-283"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-06T00:44:49.682Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "Ua61686bb3f9ce6207ca4f38bab123c1b",
+    "nickname": "Pii Ploy🤭😸",
+    "phone": "0934397593",
+    "course": "90 min",
+    "bookingDate": "2026-05-06",
+    "bookingTime": "10:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-284"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
