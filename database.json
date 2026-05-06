@@ -6707,7 +6707,7 @@
     "id": "Q-285"
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-06T03:00:20.369Z",
     "isPaid": false,
     "isDepositPaid": true,
