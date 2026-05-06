@@ -6682,7 +6682,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-284"
+    "id": "Q-284",
+    "serviceStartTime": "2026-05-06T03:05:12.928Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
