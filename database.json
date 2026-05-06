@@ -6685,7 +6685,7 @@
     "id": "Q-284"
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-06T03:00:08.486Z",
     "isPaid": false,
     "isDepositPaid": true,
