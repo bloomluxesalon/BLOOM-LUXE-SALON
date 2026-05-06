@@ -6710,7 +6710,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-06T03:00:20.369Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -6729,7 +6729,8 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "ผมเปนผมต่อ",
-    "id": "Q-286"
+    "id": "Q-286",
+    "serviceStartTime": null
   },
   {
     "status": "Waiting",
