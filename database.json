@@ -6803,7 +6803,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-06T10:40:55.189Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -6823,7 +6823,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-290",
-    "serviceStartTime": "2026-05-06T10:42:19.701Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
