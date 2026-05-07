@@ -6850,7 +6850,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-07T04:30:49.772Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -6870,7 +6870,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-292",
-    "serviceStartTime": "2026-05-07T04:36:22.390Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
