@@ -6736,7 +6736,7 @@
   {
     "status": "Waiting",
     "timestamp": "2026-05-06T04:38:15.232Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "booking",
