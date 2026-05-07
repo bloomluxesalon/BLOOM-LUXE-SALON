@@ -6918,6 +6918,28 @@
     "id": "Q-294"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-07T06:04:59.495Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U20b5d62e0fb023eb2d9e32e7f58f24d1",
+    "nickname": "Tong”",
+    "phone": "0950025013",
+    "course": "60 min",
+    "bookingDate": "2026-05-07",
+    "bookingTime": "14:30",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-295"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
