@@ -6897,7 +6897,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-05-07T05:32:38.091Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -6916,7 +6916,8 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-294"
+    "id": "Q-294",
+    "serviceStartTime": null
   },
   {
     "status": "Waiting",
