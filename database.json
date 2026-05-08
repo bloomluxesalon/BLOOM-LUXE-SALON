@@ -6992,7 +6992,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-08T03:58:17.504Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -7011,7 +7011,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-298"
+    "id": "Q-298",
+    "serviceStartTime": null,
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
