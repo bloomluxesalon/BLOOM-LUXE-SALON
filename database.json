@@ -6987,7 +6987,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-297"
+    "id": "Q-297",
+    "serviceStartTime": "2026-05-08T04:01:23.605Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
