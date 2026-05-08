@@ -7041,7 +7041,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Completed",
+    "status": "Serving",
     "timestamp": "2026-05-08T07:40:19.566Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -7061,8 +7061,8 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-300",
-    "serviceStartTime": null,
-    "notifiedNext": true
+    "serviceStartTime": "2026-05-08T07:44:14.025Z",
+    "notifiedNext": false
   },
   {
     "status": "Completed",
@@ -7087,50 +7087,6 @@
     "id": "Q-301",
     "serviceStartTime": null,
     "notifiedNext": false
-  },
-  {
-    "status": "Pending",
-    "timestamp": "2026-05-08T08:59:48.245Z",
-    "isPaid": false,
-    "isDepositPaid": false,
-    "actualPrice": 590,
-    "orderType": "booking",
-    "lineUserId": "U0f7665665c178d6755b3b229076be146",
-    "nickname": "Non",
-    "phone": "0658613231",
-    "course": "60 min",
-    "bookingDate": "2026-05-08",
-    "bookingTime": "16:00",
-    "gender": "Male",
-    "waterTemp": "Warm",
-    "oil": "Jasmine Rice",
-    "shampoo": "Honey sunset",
-    "massagePressure": "Medium",
-    "headPressure": "Medium",
-    "caution": "",
-    "id": "Q-302"
-  },
-  {
-    "status": "Pending",
-    "timestamp": "2026-05-08T09:00:05.497Z",
-    "isPaid": false,
-    "isDepositPaid": false,
-    "actualPrice": 590,
-    "orderType": "walkin",
-    "lineUserId": "U636c21b62f43ddb00770b515e44e8a36",
-    "nickname": "OIL🪼",
-    "phone": "0969197815",
-    "course": "60 min",
-    "bookingDate": "2026-05-08",
-    "bookingTime": "16:00",
-    "gender": "Female",
-    "waterTemp": "Warm",
-    "oil": "Jasmine Rice",
-    "shampoo": "Chance rich",
-    "massagePressure": "Medium",
-    "headPressure": "Strong",
-    "caution": "",
-    "id": "Q-303"
   },
   {
     "id": "SYS_SETTINGS",
