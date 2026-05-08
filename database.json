@@ -7016,6 +7016,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-08T05:20:44.059Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "Ube97c50b40245d50d81154d8c901a68e",
+    "nickname": "nut",
+    "phone": "0618215729",
+    "course": "90 min",
+    "bookingDate": "2026-05-08",
+    "bookingTime": "12:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-299"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
