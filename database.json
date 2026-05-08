@@ -7062,7 +7062,7 @@
     "id": "Q-300"
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-08T07:40:50.111Z",
     "isPaid": false,
     "isDepositPaid": true,
