@@ -7060,7 +7060,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-300"
+    "id": "Q-300",
+    "serviceStartTime": "2026-05-08T07:44:14.025Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
