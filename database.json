@@ -7062,7 +7062,7 @@
     "caution": "",
     "id": "Q-300",
     "serviceStartTime": "2026-05-08T07:44:14.025Z",
-    "notifiedNext": false
+    "notifiedNext": true
   },
   {
     "status": "Serving",
@@ -7086,7 +7086,7 @@
     "caution": "",
     "id": "Q-301",
     "serviceStartTime": "2026-05-08T07:42:32.826Z",
-    "notifiedNext": true
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
