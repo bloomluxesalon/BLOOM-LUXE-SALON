@@ -7043,7 +7043,7 @@
     "status": "Pending",
     "timestamp": "2026-05-08T07:40:19.566Z",
     "isPaid": false,
-    "isDepositPaid": false,
+    "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "booking",
     "lineUserId": "U5af0487d7970e9674fdb21d78155efbf",
