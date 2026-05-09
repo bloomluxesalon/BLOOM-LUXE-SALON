@@ -7207,7 +7207,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-09T08:17:13.885Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -7226,7 +7226,8 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-307"
+    "id": "Q-307",
+    "serviceStartTime": null
   },
   {
     "status": "Completed",
