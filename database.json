@@ -7159,7 +7159,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-09T06:51:43.984Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -7179,7 +7179,7 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-305",
-    "serviceStartTime": "2026-05-09T06:57:06.652Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
