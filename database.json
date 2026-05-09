@@ -7229,7 +7229,7 @@
     "id": "Q-307"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-09T08:20:27.838Z",
     "isPaid": false,
     "isDepositPaid": true,
