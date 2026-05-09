@@ -7154,7 +7154,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-304"
+    "id": "Q-304",
+    "serviceStartTime": "2026-05-09T02:57:57.774Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
