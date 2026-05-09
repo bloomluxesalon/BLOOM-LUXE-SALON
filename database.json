@@ -7130,10 +7130,12 @@
     "massagePressure": "Medium",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-303"
+    "id": "Q-303",
+    "serviceStartTime": "2026-05-09T02:57:34.313Z",
+    "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Waiting",
     "timestamp": "2026-05-09T02:55:37.288Z",
     "isPaid": false,
     "isDepositPaid": true,
