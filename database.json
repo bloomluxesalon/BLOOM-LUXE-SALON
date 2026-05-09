@@ -7200,7 +7200,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-306"
+    "id": "Q-306",
+    "serviceStartTime": "2026-05-09T06:56:01.918Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
