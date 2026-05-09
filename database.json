@@ -7275,7 +7275,7 @@
     "caution": "",
     "id": "Q-309",
     "serviceStartTime": "2026-05-09T10:13:21.315Z",
-    "notifiedNext": false
+    "notifiedNext": true
   },
   {
     "status": "Serving",
@@ -7299,13 +7299,13 @@
     "caution": "",
     "id": "Q-310",
     "serviceStartTime": "2026-05-09T10:13:32.432Z",
-    "notifiedNext": true
+    "notifiedNext": false
   },
   {
     "status": "Pending",
     "timestamp": "2026-05-09T11:05:42.134Z",
     "isPaid": false,
-    "isDepositPaid": false,
+    "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "booking",
     "lineUserId": "Ue593e660cece9b0bea157a44d4366ee5",
