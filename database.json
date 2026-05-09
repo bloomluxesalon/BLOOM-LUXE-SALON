@@ -7321,7 +7321,9 @@
     "massagePressure": "Strong",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-311"
+    "id": "Q-311",
+    "serviceStartTime": "2026-05-09T11:16:03.351Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
