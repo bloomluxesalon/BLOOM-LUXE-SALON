@@ -7350,7 +7350,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-10T05:44:30.127Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -7370,7 +7370,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-313",
-    "serviceStartTime": "2026-05-10T05:48:38.553Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
@@ -7393,7 +7393,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-314"
+    "id": "Q-314",
+    "serviceStartTime": "2026-05-10T05:48:40.822Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
