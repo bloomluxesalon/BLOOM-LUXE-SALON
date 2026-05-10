@@ -7417,7 +7417,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "-",
-    "id": "Q-315"
+    "id": "Q-315",
+    "serviceStartTime": "2026-05-10T08:54:08.996Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
