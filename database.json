@@ -7420,7 +7420,7 @@
     "id": "Q-315"
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-10T08:37:46.448Z",
     "isPaid": false,
     "isDepositPaid": true,
