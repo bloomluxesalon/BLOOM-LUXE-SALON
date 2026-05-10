@@ -7446,6 +7446,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-10T10:37:56.155Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U202c1d8f64808c3a53ab8f3a79c824bf",
+    "nickname": "Phat",
+    "phone": "0895351551",
+    "course": "90 min",
+    "bookingDate": "2026-05-10",
+    "bookingTime": "18:00",
+    "gender": "Male",
+    "waterTemp": "Cold",
+    "oil": "White Tea",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-317"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
