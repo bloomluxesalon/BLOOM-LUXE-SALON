@@ -7372,6 +7372,28 @@
     "id": "Q-313"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-10T05:44:39.022Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Ud79fd5b6c7288a20b050c8cd9229950b",
+    "nickname": "Bew🍃",
+    "phone": "0989179273",
+    "course": "60 min",
+    "bookingDate": "2026-05-10",
+    "bookingTime": "13:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-314"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
