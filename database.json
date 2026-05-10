@@ -7302,7 +7302,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-09T11:05:42.134Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -7322,7 +7322,7 @@
     "headPressure": "Gentle",
     "caution": "",
     "id": "Q-311",
-    "serviceStartTime": "2026-05-09T11:16:03.351Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
