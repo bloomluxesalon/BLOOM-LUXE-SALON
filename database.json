@@ -7582,7 +7582,9 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-322"
+    "id": "Q-322",
+    "serviceStartTime": "2026-05-11T10:41:38.462Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -7604,7 +7606,9 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-323"
+    "id": "Q-323",
+    "serviceStartTime": "2026-05-11T10:41:39.865Z",
+    "notifiedNext": false
   },
   {
     "status": "Waiting",
