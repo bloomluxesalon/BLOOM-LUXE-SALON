@@ -7511,7 +7511,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-319"
+    "id": "Q-319",
+    "serviceStartTime": "2026-05-11T08:45:22.898Z",
+    "notifiedNext": false
   },
   {
     "status": "Waiting",
