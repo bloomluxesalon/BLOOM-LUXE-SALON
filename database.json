@@ -7621,8 +7621,8 @@
     "nickname": "Cαɾɾσƚ🥕2645",
     "phone": "0949782473",
     "course": "60 min",
-    "bookingDate": "2026-05-11",
-    "bookingTime": "19:00",
+    "bookingDate": "2026-05-12",
+    "bookingTime": "18:00",
     "gender": "Female",
     "waterTemp": "Warm",
     "oil": "Choose at shop",
@@ -7630,7 +7630,9 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-324"
+    "id": "Q-324",
+    "discount": "",
+    "internalNote": ""
   },
   {
     "id": "SYS_SETTINGS",
