@@ -7492,7 +7492,7 @@
     "id": "Q-318"
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-11T08:42:50.572Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -7512,7 +7512,7 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-319",
-    "serviceStartTime": "2026-05-11T08:45:22.898Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
