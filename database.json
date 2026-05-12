@@ -7636,7 +7636,7 @@
     "discount": "",
     "internalNote": "",
     "serviceStartTime": "2026-05-12T10:48:23.452Z",
-    "notifiedNext": false
+    "notifiedNext": true
   },
   {
     "status": "Cancelled",
@@ -7707,7 +7707,7 @@
     "caution": "",
     "id": "Q-327",
     "serviceStartTime": "2026-05-12T10:44:26.127Z",
-    "notifiedNext": true
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
