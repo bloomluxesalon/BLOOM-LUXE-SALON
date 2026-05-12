@@ -7470,7 +7470,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-10T14:00:51.511Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -7490,7 +7490,7 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-318",
-    "serviceStartTime": "2026-05-12T06:53:54.163Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
