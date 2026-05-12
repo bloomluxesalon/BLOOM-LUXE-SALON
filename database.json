@@ -7637,6 +7637,28 @@
     "internalNote": ""
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-12T10:16:39.231Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U9d9824e1913bb712000028780aa4c19e",
+    "nickname": "나트",
+    "phone": "0641424163",
+    "course": "90 min",
+    "bookingDate": "2026-05-12",
+    "bookingTime": "18:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Choose at shop",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-325"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
