@@ -7681,6 +7681,28 @@
     "id": "Q-326"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-12T10:42:12.632Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U970e3f11e29582cb4e7e367799051461",
+    "nickname": "Thitichaya",
+    "phone": "0659151702",
+    "course": "60 min",
+    "bookingDate": "2026-05-12",
+    "bookingTime": "20:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-327"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
