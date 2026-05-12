@@ -7700,7 +7700,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-327"
+    "id": "Q-327",
+    "serviceStartTime": "2026-05-12T10:44:26.127Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
