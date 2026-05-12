@@ -7613,7 +7613,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-11T10:31:05.792Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -7635,7 +7635,7 @@
     "id": "Q-324",
     "discount": "",
     "internalNote": "",
-    "serviceStartTime": "2026-05-12T10:48:23.452Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
