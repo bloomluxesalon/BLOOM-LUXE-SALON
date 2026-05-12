@@ -7639,7 +7639,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-05-12T10:16:39.231Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -7658,7 +7658,8 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-325"
+    "id": "Q-325",
+    "serviceStartTime": null
   },
   {
     "status": "Serving",
