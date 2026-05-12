@@ -7662,7 +7662,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-12T10:40:27.302Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -7682,7 +7682,7 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-326",
-    "serviceStartTime": "2026-05-12T10:48:35.739Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
