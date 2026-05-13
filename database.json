@@ -7782,7 +7782,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-13T07:39:37.167Z",
     "isPaid": false,
     "isDepositPaid": true,
