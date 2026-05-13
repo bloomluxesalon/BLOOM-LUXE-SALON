@@ -7713,7 +7713,7 @@
     "status": "Pending",
     "timestamp": "2026-05-13T05:54:26.137Z",
     "isPaid": false,
-    "isDepositPaid": false,
+    "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "booking",
     "lineUserId": "U5d868dbe32fce8ee1bed952ed693b82e",
