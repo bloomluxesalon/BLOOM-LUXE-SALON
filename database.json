@@ -7729,7 +7729,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-328"
+    "id": "Q-328",
+    "serviceStartTime": "2026-05-13T05:57:41.678Z",
+    "notifiedNext": false
   },
   {
     "status": "Waiting",
