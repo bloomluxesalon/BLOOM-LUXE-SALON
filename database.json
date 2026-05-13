@@ -7710,7 +7710,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-13T05:54:26.137Z",
     "isPaid": false,
     "isDepositPaid": true,
