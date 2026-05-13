@@ -7777,7 +7777,9 @@
     "massagePressure": "Strong",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-330"
+    "id": "Q-330",
+    "serviceStartTime": "2026-05-13T07:24:57.055Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
