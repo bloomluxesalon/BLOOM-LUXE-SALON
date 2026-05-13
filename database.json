@@ -7801,7 +7801,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-331"
+    "id": "Q-331",
+    "serviceStartTime": "2026-05-13T07:41:38.287Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
