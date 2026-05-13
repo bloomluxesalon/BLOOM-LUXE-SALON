@@ -7732,7 +7732,7 @@
     "id": "Q-328"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-13T05:55:20.353Z",
     "isPaid": false,
     "isDepositPaid": true,
