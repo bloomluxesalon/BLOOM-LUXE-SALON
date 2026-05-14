@@ -2537,7 +2537,7 @@
     "id": "Q-334"
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-14T06:32:18.166Z",
     "isPaid": false,
     "isDepositPaid": true,
