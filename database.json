@@ -2562,13 +2562,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-14T11:00:24.958Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Uc9cde67e1cdf0904dacf5ea3d63b32db",
+    "nickname": "z'zn",
+    "phone": "0909178747",
+    "course": "60 min",
+    "bookingDate": "2026-05-14",
+    "bookingTime": "18:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Chance rich",
+    "massagePressure": "Strong",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-336"
   },
   {
     "id": "SYS_SETTINGS",
