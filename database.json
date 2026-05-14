@@ -2556,7 +2556,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-335"
+    "id": "Q-335",
+    "serviceStartTime": "2026-05-14T06:35:32.307Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
