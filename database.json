@@ -2562,7 +2562,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Waiting",
+    "status": "Cancelled",
     "timestamp": "2026-05-14T11:00:24.958Z",
     "isPaid": true,
     "isDepositPaid": true,
@@ -2581,7 +2581,8 @@
     "massagePressure": "Strong",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-336"
+    "id": "Q-336",
+    "serviceStartTime": null
   },
   {
     "status": "Pending",
