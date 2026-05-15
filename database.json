@@ -2677,6 +2677,28 @@
     "id": "Q-340"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-15T06:45:00.991Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U9ef4b686f5419dce096eb38f50389c01",
+    "nickname": "Sittichard W.14",
+    "phone": "925354994",
+    "course": "90 min",
+    "bookingDate": "2026-05-15",
+    "bookingTime": "15:30",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-341"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
