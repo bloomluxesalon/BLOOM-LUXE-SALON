@@ -2725,6 +2725,28 @@
     "id": "Q-342"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-15T08:33:03.319Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "U706db4570e0e965b1dd6c43b2933b987",
+    "nickname": "ทับทิม ·͜·♡",
+    "phone": "0992328749",
+    "course": "90 min",
+    "bookingDate": "2026-05-15",
+    "bookingTime": "04:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "White Tea",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-343"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
