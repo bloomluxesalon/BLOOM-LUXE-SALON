@@ -2679,7 +2679,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-15T06:45:00.991Z",
     "isPaid": false,
     "isDepositPaid": true,
