@@ -2773,6 +2773,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-15T11:49:08.412Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Ube46e61f52d17880f73f2a4430627ece",
+    "nickname": "Mint 💰🔥🌞",
+    "phone": "0972791380",
+    "course": "60 min",
+    "bookingDate": "2026-05-15",
+    "bookingTime": "19:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Chance rich",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-345"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
