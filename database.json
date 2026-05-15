@@ -2628,6 +2628,28 @@
     "id": "Q-338"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-15T03:07:53.010Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "Uf9787ccc64400cfe320a1cb6602b20db",
+    "nickname": "🦆ลูกเป็ดขี้เหร่🦆",
+    "phone": "0823350158",
+    "course": "90 min",
+    "bookingDate": "2026-05-15",
+    "bookingTime": "10:30",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "White Tea",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-339"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
