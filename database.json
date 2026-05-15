@@ -2722,7 +2722,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-342"
+    "id": "Q-342",
+    "serviceStartTime": "2026-05-15T08:37:06.775Z",
+    "notifiedNext": false
   },
   {
     "status": "Cancelled",
