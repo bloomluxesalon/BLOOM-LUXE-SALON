@@ -2862,7 +2862,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-348"
+    "id": "Q-348",
+    "serviceStartTime": "2026-05-16T06:22:35.677Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
