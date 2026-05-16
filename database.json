@@ -2987,6 +2987,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-16T10:41:04.114Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "Ubccb0e6c8cefb20894d94c9245cecd77",
+    "nickname": "🤍p",
+    "phone": "0952844655",
+    "course": "90 min",
+    "bookingDate": "2026-05-16",
+    "bookingTime": "18:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Strong",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-354"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
