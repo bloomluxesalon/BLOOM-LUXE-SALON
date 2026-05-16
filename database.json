@@ -2681,7 +2681,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Cancelled",
     "timestamp": "2026-05-15T06:45:00.991Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -2700,7 +2700,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-341"
+    "id": "Q-341",
+    "serviceStartTime": null
   },
   {
     "status": "Completed",
