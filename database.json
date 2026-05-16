@@ -2889,13 +2889,26 @@
     "id": "Q-349"
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-16T08:18:03.046Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U369330d36dedada2acbaf47182d7f7c6",
+    "nickname": "Joy",
+    "phone": "0996292941",
+    "course": "90 min",
+    "bookingDate": "2026-05-16",
+    "bookingTime": "15:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-350"
   },
   {
     "id": "SYS_SETTINGS",
