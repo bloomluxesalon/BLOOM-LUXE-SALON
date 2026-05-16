@@ -2795,7 +2795,7 @@
     "id": "Q-345"
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-16T04:43:55.879Z",
     "isPaid": false,
     "isDepositPaid": true,
