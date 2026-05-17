@@ -2987,22 +2987,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
-  },
-  {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-17T04:29:01.995Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Ud824bb40a8ca0717f15b19918e59e8d3",
+    "nickname": "Maymay🌻236",
+    "phone": "0942361544",
+    "course": "60 min",
+    "bookingDate": "2026-05-17",
+    "bookingTime": "11:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-354"
   },
   {
     "id": "SYS_SETTINGS",
