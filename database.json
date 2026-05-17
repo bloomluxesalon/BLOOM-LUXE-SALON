@@ -3128,7 +3128,7 @@
     "caution": "",
     "id": "Q-359",
     "serviceStartTime": "2026-05-17T09:45:21.668Z",
-    "notifiedNext": false
+    "notifiedNext": true
   },
   {
     "status": "Serving",
@@ -3152,7 +3152,7 @@
     "caution": "",
     "id": "Q-360",
     "serviceStartTime": "2026-05-17T09:45:28.608Z",
-    "notifiedNext": true
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
