@@ -3155,22 +3155,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
-  },
-  {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-17T11:49:14.133Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "walkin",
+    "lineUserId": "Ue3b2c6af3ce61395e5fde4f12aa52e44",
+    "nickname": "OAT Interior&Deco",
+    "phone": "0616156961",
+    "course": "90 min",
+    "bookingDate": "2026-05-17",
+    "bookingTime": "19:00",
+    "gender": "Male",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Strong",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-361"
   },
   {
     "id": "SYS_SETTINGS",
