@@ -3129,6 +3129,28 @@
     "id": "Q-359"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-17T09:42:10.636Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U4fabea384a1ea52e4c20ab59f82c2162",
+    "nickname": "Pachor（＾ν＾）",
+    "phone": "0903283379",
+    "course": "90 min",
+    "bookingDate": "2026-05-17",
+    "bookingTime": "17:00",
+    "gender": "Female",
+    "waterTemp": "Cold",
+    "oil": "Marigold",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-360"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
