@@ -3035,7 +3035,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-17T05:49:36.047Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3055,7 +3055,7 @@
     "headPressure": "Gentle",
     "caution": "-",
     "id": "Q-356",
-    "serviceStartTime": "2026-05-17T05:57:38.930Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
