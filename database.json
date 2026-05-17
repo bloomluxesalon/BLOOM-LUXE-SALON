@@ -2958,7 +2958,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-352"
+    "id": "Q-352",
+    "serviceStartTime": "2026-05-17T03:10:02.644Z",
+    "notifiedNext": false
   },
   {
     "status": "Waiting",
