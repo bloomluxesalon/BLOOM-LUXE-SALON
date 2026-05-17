@@ -3083,7 +3083,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-17T07:41:16.809Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3103,7 +3103,7 @@
     "headPressure": "Strong",
     "caution": "",
     "id": "Q-358",
-    "serviceStartTime": "2026-05-17T07:42:04.061Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
