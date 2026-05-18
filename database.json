@@ -3198,7 +3198,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-362"
+    "id": "Q-362",
+    "serviceStartTime": "2026-05-18T03:11:09.066Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
@@ -3220,7 +3222,9 @@
     "massagePressure": "Gentle",
     "headPressure": "Gentle",
     "caution": "",
-    "id": "Q-363"
+    "id": "Q-363",
+    "serviceStartTime": "2026-05-18T03:11:10.194Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
