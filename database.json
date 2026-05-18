@@ -3203,7 +3203,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-18T03:06:29.604Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3223,7 +3223,7 @@
     "headPressure": "Gentle",
     "caution": "",
     "id": "Q-363",
-    "serviceStartTime": "2026-05-18T03:11:10.194Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
