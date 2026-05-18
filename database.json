@@ -3249,7 +3249,7 @@
     "id": "Q-364"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-18T04:03:01.121Z",
     "isPaid": false,
     "isDepositPaid": true,
