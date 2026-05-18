@@ -3251,7 +3251,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-18T04:03:01.121Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3271,7 +3271,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-365",
-    "serviceStartTime": "2026-05-18T04:16:31.731Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
