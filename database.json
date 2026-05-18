@@ -3249,6 +3249,28 @@
     "id": "Q-364"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-18T04:03:01.121Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "Uc9ce8c092962419506bac2099171fe8d",
+    "nickname": "Yuki Usui",
+    "phone": "0935817450",
+    "course": "60 min",
+    "bookingDate": "2026-05-18",
+    "bookingTime": "12:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-365"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
