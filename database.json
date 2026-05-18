@@ -3201,7 +3201,7 @@
     "id": "Q-362"
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-18T03:06:29.604Z",
     "isPaid": false,
     "isDepositPaid": true,
