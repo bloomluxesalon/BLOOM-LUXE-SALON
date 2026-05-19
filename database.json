@@ -3345,7 +3345,7 @@
     "id": "Q-368"
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-19T06:55:15.891Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3365,7 +3365,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-369",
-    "serviceStartTime": "2026-05-19T07:02:33.141Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
