@@ -3394,7 +3394,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Completed",
+    "status": "Serving",
     "timestamp": "2026-05-19T10:45:12.308Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3414,13 +3414,13 @@
     "headPressure": "Medium",
     "caution": "-",
     "id": "Q-371",
-    "serviceStartTime": null,
+    "serviceStartTime": "2026-05-19T10:46:32.067Z",
     "notifiedNext": true
   },
   {
-    "status": "Completed",
+    "status": "Serving",
     "timestamp": "2026-05-19T10:47:08.172Z",
-    "isPaid": false,
+    "isPaid": true,
     "isDepositPaid": true,
     "actualPrice": 590,
     "orderType": "walkin",
@@ -3438,30 +3438,17 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-372",
-    "serviceStartTime": null,
+    "serviceStartTime": "2026-05-19T10:47:54.590Z",
     "notifiedNext": false
   },
   {
-    "status": "Pending",
-    "timestamp": "2026-05-19T11:57:16.038Z",
-    "isPaid": false,
-    "isDepositPaid": false,
-    "actualPrice": 590,
-    "orderType": "booking",
-    "lineUserId": "Uc6cf469e66ee6bb4cd6a88f6279f4d39",
-    "nickname": "P A T",
-    "phone": "0639879152",
-    "course": "60 min",
-    "bookingDate": "2026-05-19",
-    "bookingTime": "19:00",
-    "gender": "Female",
-    "waterTemp": "Warm",
-    "oil": "White Tea",
-    "shampoo": "Chance rich",
-    "massagePressure": "Gentle",
-    "headPressure": "Medium",
-    "caution": "",
-    "id": "Q-373"
+    "id": "SYS_SETTINGS",
+    "staffLineIds": [
+      "U28e5164b37d8d04842687f73f9dc330c",
+      "U8da0f6a907355a7ad9646a07df0bc861",
+      "Udd009c179d2a17c8057120a7c0f44466",
+      "U8efcca174ee464e6d38fba23875f91cf"
+    ]
   },
   {
     "id": "SYS_SETTINGS",
