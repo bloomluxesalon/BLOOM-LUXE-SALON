@@ -3388,7 +3388,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-370"
+    "id": "Q-370",
+    "serviceStartTime": "2026-05-19T08:45:56.809Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
