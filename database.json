@@ -3345,6 +3345,28 @@
     "id": "Q-368"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-19T06:55:15.891Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U3498df4f0c4332e2fbb92928904051f6",
+    "nickname": "P",
+    "phone": "0952460614",
+    "course": "60 min",
+    "bookingDate": "2026-05-19",
+    "bookingTime": "14:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Orchid",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-369"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
