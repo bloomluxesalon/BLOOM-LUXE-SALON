@@ -3323,7 +3323,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-19T06:54:36.742Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3342,7 +3342,8 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-368"
+    "id": "Q-368",
+    "serviceStartTime": null
   },
   {
     "status": "Completed",
