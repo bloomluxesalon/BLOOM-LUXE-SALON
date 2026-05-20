@@ -3466,13 +3466,26 @@
     "notifiedNext": true
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-20T06:51:43.241Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U4d4773f2566950812761ae030936cc5e",
+    "nickname": "Mickey Chinabunchorn",
+    "phone": "0922546591",
+    "course": "60 min",
+    "bookingDate": "2026-05-20",
+    "bookingTime": "14:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Strong",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-374"
   },
   {
     "id": "SYS_SETTINGS",
