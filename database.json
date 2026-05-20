@@ -3485,7 +3485,9 @@
     "massagePressure": "Strong",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-374"
+    "id": "Q-374",
+    "serviceStartTime": "2026-05-20T06:53:56.000Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
