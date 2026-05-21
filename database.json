@@ -3586,13 +3586,26 @@
     "notifiedNext": false
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-21T09:18:30.602Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U5b2ff15c850e4de86e821cf89a676bfe",
+    "nickname": "Ponner16🌷",
+    "phone": "0839364365",
+    "course": "60 min",
+    "bookingDate": "2026-05-21",
+    "bookingTime": "16:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Marigold",
+    "shampoo": "Honey sunset",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-379"
   },
   {
     "id": "SYS_SETTINGS",
