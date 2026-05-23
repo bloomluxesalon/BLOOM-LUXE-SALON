@@ -3650,7 +3650,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-381"
+    "id": "Q-381",
+    "serviceStartTime": "2026-05-23T04:06:18.497Z",
+    "notifiedNext": false
   },
   {
     "status": "Serving",
