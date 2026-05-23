@@ -3749,10 +3749,10 @@
     "caution": "",
     "id": "Q-385",
     "serviceStartTime": "2026-05-23T09:00:11.814Z",
-    "notifiedNext": false
+    "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-23T08:57:36.328Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -3772,7 +3772,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-386",
-    "notifiedNext": true
+    "serviceStartTime": null
   },
   {
     "id": "SYS_SETTINGS",
