@@ -3797,6 +3797,28 @@
     "id": "Q-387"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-23T11:12:23.652Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "booking",
+    "lineUserId": "U9a82908dc9413c69b05ac513de531a45",
+    "nickname": "Ked",
+    "phone": "0627395515",
+    "course": "60 min",
+    "bookingDate": "2026-05-23",
+    "bookingTime": "18:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "คอ",
+    "id": "Q-388"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
