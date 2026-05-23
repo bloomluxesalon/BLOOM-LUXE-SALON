@@ -3750,7 +3750,7 @@
     "id": "Q-385"
   },
   {
-    "status": "Pending",
+    "status": "Waiting",
     "timestamp": "2026-05-23T08:57:36.328Z",
     "isPaid": false,
     "isDepositPaid": false,
