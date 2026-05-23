@@ -3881,7 +3881,7 @@
     "phone": "0612969264",
     "course": "90 min",
     "bookingDate": "2026-05-24",
-    "bookingTime": "10:30",
+    "bookingTime": "13:20",
     "gender": "Female",
     "waterTemp": "Warm",
     "oil": "Choose at shop",
@@ -3889,7 +3889,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-391"
+    "id": "Q-391",
+    "discount": "",
+    "internalNote": "2คน "
   },
   {
     "id": "SYS_SETTINGS",
