@@ -3608,13 +3608,26 @@
     "id": "Q-379"
   },
   {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
+    "status": "Pending",
+    "timestamp": "2026-05-23T03:27:32.056Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U817774b140286ee7b16bee60c95eb67e",
+    "nickname": "nn",
+    "phone": "0918139752",
+    "course": "60 min",
+    "bookingDate": "2026-06-10",
+    "bookingTime": "10:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Strong",
+    "caution": "",
+    "id": "Q-380"
   },
   {
     "id": "SYS_SETTINGS",
