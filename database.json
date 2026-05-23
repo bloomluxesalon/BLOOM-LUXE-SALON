@@ -3817,7 +3817,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "คอ",
-    "id": "Q-388"
+    "id": "Q-388",
+    "serviceStartTime": "2026-05-23T11:14:44.414Z",
+    "notifiedNext": false
   },
   {
     "id": "SYS_SETTINGS",
