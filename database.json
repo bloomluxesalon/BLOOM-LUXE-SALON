@@ -3609,7 +3609,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Pending",
+    "status": "Cancelled",
     "timestamp": "2026-05-23T03:27:32.056Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -3628,7 +3628,8 @@
     "massagePressure": "Medium",
     "headPressure": "Strong",
     "caution": "",
-    "id": "Q-380"
+    "id": "Q-380",
+    "serviceStartTime": null
   },
   {
     "status": "Completed",
