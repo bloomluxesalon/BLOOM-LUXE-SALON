@@ -3750,6 +3750,28 @@
     "id": "Q-385"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-23T08:57:36.328Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U7fb255b67183129486266617c61b6018",
+    "nickname": "Aum",
+    "phone": "0923172060",
+    "course": "60 min",
+    "bookingDate": "2026-05-23",
+    "bookingTime": "16:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Orchid",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-386"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
