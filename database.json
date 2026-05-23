@@ -3822,7 +3822,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-23T13:03:10.134Z",
     "isPaid": false,
     "isDepositPaid": true,
