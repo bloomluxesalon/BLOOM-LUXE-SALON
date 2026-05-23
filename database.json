@@ -3841,10 +3841,12 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-389"
+    "id": "Q-389",
+    "serviceStartTime": "2026-05-23T13:05:35.449Z",
+    "notifiedNext": false
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-23T13:03:15.761Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3864,7 +3866,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-390",
-    "serviceStartTime": "2026-05-23T13:05:33.070Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
