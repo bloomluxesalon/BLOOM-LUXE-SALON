@@ -3798,7 +3798,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-23T11:12:23.652Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -3818,7 +3818,7 @@
     "headPressure": "Medium",
     "caution": "คอ",
     "id": "Q-388",
-    "serviceStartTime": "2026-05-23T11:14:44.414Z",
+    "serviceStartTime": null,
     "notifiedNext": false
   },
   {
