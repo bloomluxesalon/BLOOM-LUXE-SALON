@@ -3775,7 +3775,7 @@
     "serviceStartTime": null
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-23T11:12:05.619Z",
     "isPaid": false,
     "isDepositPaid": false,
@@ -3794,7 +3794,8 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "ไม่เกาแรง ",
-    "id": "Q-387"
+    "id": "Q-387",
+    "serviceStartTime": null
   },
   {
     "status": "Waiting",
