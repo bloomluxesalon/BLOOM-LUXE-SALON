@@ -3680,7 +3680,7 @@
     "notifiedNext": false
   },
   {
-    "status": "Waiting",
+    "status": "Serving",
     "timestamp": "2026-05-23T05:56:56.971Z",
     "isPaid": false,
     "isDepositPaid": false,
