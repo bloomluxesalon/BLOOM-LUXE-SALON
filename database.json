@@ -3870,6 +3870,28 @@
     "notifiedNext": false
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-23T15:08:20.455Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U977f7adbd969e0572c1514d60980c6b0",
+    "nickname": "ॐ 𝓑𝓸𝓸𝓷𝓷𝓪𝓹𝓪 -๑๘๓๕-",
+    "phone": "0612969264",
+    "course": "90 min",
+    "bookingDate": "2026-05-24",
+    "bookingTime": "10:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Choose at shop",
+    "shampoo": "Choose at shop",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-391"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
