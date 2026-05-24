@@ -3942,30 +3942,6 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
-    "timestamp": "2026-05-24T04:52:55.569Z",
-    "isPaid": false,
-    "isDepositPaid": true,
-    "actualPrice": 590,
-    "orderType": "walkin",
-    "lineUserId": "U26457c93518d49ba0307369b5cbc3050",
-    "nickname": "Mint",
-    "phone": "0831255169",
-    "course": "60 min",
-    "bookingDate": "2026-05-24",
-    "bookingTime": "12:00",
-    "gender": "Female",
-    "waterTemp": "Warm",
-    "oil": "White Tea",
-    "shampoo": "Chance rich",
-    "massagePressure": "Strong",
-    "headPressure": "Strong",
-    "caution": "",
-    "id": "Q-394",
-    "serviceStartTime": "2026-05-24T04:57:48.232Z",
-    "notifiedNext": false
-  },
-  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
