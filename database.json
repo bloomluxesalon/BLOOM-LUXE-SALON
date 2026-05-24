@@ -3942,7 +3942,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-24T05:02:58.926Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3962,7 +3962,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-394",
-    "serviceStartTime": "2026-05-24T05:04:55.175Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
