@@ -3894,7 +3894,7 @@
     "internalNote": "2ท่าน"
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-24T03:25:01.119Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3914,7 +3914,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-392",
-    "serviceStartTime": "2026-05-24T03:34:48.821Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
