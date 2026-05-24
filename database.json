@@ -3942,6 +3942,28 @@
     "notifiedNext": true
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-24T05:02:58.926Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 590,
+    "orderType": "walkin",
+    "lineUserId": "U9f1af66a480da55f6222bb27b15f01f5",
+    "nickname": "Superwine🌻",
+    "phone": "0905553595",
+    "course": "60 min",
+    "bookingDate": "2026-05-24",
+    "bookingTime": "12:30",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Strong",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-394"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
