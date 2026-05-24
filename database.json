@@ -3985,7 +3985,9 @@
     "massagePressure": "Medium",
     "headPressure": "Medium",
     "caution": "",
-    "id": "Q-395"
+    "id": "Q-395",
+    "serviceStartTime": "2026-05-24T06:42:07.394Z",
+    "notifiedNext": false
   },
   {
     "status": "Pending",
