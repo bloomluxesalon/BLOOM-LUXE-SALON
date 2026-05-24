@@ -3966,6 +3966,28 @@
     "notifiedNext": true
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-24T06:39:43.414Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "U977f7adbd969e0572c1514d60980c6b0",
+    "nickname": "ॐ 𝓑𝓸𝓸𝓷𝓷𝓪𝓹𝓪 -๑๘๓๕-",
+    "phone": "0612969264",
+    "course": "90 min",
+    "bookingDate": "2026-05-24",
+    "bookingTime": "14:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "Jasmine Rice",
+    "shampoo": "Pink Gold",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-395"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
