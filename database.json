@@ -3966,7 +3966,7 @@
     "notifiedNext": true
   },
   {
-    "status": "Serving",
+    "status": "Completed",
     "timestamp": "2026-05-24T06:39:43.414Z",
     "isPaid": false,
     "isDepositPaid": true,
@@ -3986,7 +3986,7 @@
     "headPressure": "Medium",
     "caution": "",
     "id": "Q-395",
-    "serviceStartTime": "2026-05-24T06:42:07.394Z",
+    "serviceStartTime": null,
     "notifiedNext": true
   },
   {
@@ -4012,24 +4012,6 @@
     "id": "Q-396",
     "serviceStartTime": "2026-05-24T06:43:35.385Z",
     "notifiedNext": true
-  },
-  {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
-  },
-  {
-    "id": "SYS_SETTINGS",
-    "staffLineIds": [
-      "U28e5164b37d8d04842687f73f9dc330c",
-      "U8da0f6a907355a7ad9646a07df0bc861",
-      "Udd009c179d2a17c8057120a7c0f44466",
-      "U8efcca174ee464e6d38fba23875f91cf"
-    ]
   },
   {
     "id": "SYS_SETTINGS",
