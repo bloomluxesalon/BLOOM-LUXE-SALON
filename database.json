@@ -3988,6 +3988,28 @@
     "id": "Q-395"
   },
   {
+    "status": "Pending",
+    "timestamp": "2026-05-24T06:40:13.147Z",
+    "isPaid": false,
+    "isDepositPaid": false,
+    "actualPrice": 890,
+    "orderType": "booking",
+    "lineUserId": "Ubc1ab7d325e73c931a982aa5cf12daf7",
+    "nickname": "Benyapaa🤍",
+    "phone": "0909515976",
+    "course": "90 min",
+    "bookingDate": "2026-05-24",
+    "bookingTime": "18:00",
+    "gender": "Female",
+    "waterTemp": "Warm",
+    "oil": "White Tea",
+    "shampoo": "Chance rich",
+    "massagePressure": "Medium",
+    "headPressure": "Medium",
+    "caution": "",
+    "id": "Q-396"
+  },
+  {
     "id": "SYS_SETTINGS",
     "staffLineIds": [
       "U28e5164b37d8d04842687f73f9dc330c",
